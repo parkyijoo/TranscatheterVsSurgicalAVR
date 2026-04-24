@@ -1,10 +1,10 @@
 [Study title]
 =============
 
-<img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created">
+<img src="https://img.shields.io/badge/Study%20Status-Started-blue.svg" alt="Study Status: Started">
 
-- Analytics use case(s): **-**
-- Study type: **-**
+- Analytics use case(s): **Population-Level Estimation**
+- Study type: **Clinical Application**
 - Tags: **-**
 - Study lead: **-**
 - Study lead forums tag: **[[Lead tag]](https://forums.ohdsi.org/u/[Lead tag])**
@@ -13,7 +13,3 @@
 - Protocol: **-**
 - Publications: **-**
 - Results explorer: **-**
-
-[Description (single paragraph)]
-
-[You can add other text at this point]
