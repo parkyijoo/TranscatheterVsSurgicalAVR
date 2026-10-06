@@ -1,801 +1,1041 @@
 targetId,comparatorId,outcomeId,outcomeName,type
-783,782,318800,Gastroesophageal reflux disease,outcome
-783,782,133228,Dental caries,outcome
-783,782,376707,Acute conjunctivitis,outcome
-783,782,75576,Irritable bowel syndrome,outcome
-783,782,435613,Cellulitis,outcome
-783,782,378424,Astigmatism,outcome
-783,782,139902,Allergic urticaria,outcome
-783,782,380731,Otitis externa,outcome
-783,782,141323,Acute maxillary sinusitis,outcome
-783,782,4079750,Osteoarthritis of knee,outcome
-783,782,4150372,Acute otitis media,outcome
-783,782,440129,Hypertrophy of nasal turbinates,outcome
-783,782,4215978,Onychomycosis,outcome
-783,782,4164337,Polyp of large intestine,outcome
-783,782,381581,Chalazion,outcome
-783,782,4108467,Burn of skin,outcome
-783,782,374366,Sensorineural hearing loss,outcome
-783,782,439840,Lymphangitis,outcome
-783,782,138463,Aphthous ulcer of mouth,outcome
-783,782,81878,Benign paroxysmal positional vertigo,outcome
-783,782,377910,Deviated nasal septum,outcome
-783,782,134453,Bursitis,outcome
-783,782,201792,Nongonococcal urethritis,outcome
-783,782,194997,Prostatitis,outcome
-783,782,373478,Presbyopia,outcome
-783,782,4142905,Fracture of rib,outcome
-783,782,444367,Cholelithiasis without obstruction,outcome
-783,782,194696,Dysmenorrhea,outcome
-783,782,4049417,Vesicular eczema,outcome
-783,782,380094,Carpal tunnel syndrome,outcome
-783,782,140168,Psoriasis,outcome
-783,782,72418,Scoliosis deformity of spine,outcome
-783,782,72576,Benign tumor of breast,outcome
-783,782,4131595,Fracture of radius,outcome
-783,782,199074,Acute pancreatitis,outcome
-783,782,381444,Contusion of eye,outcome
-783,782,4153877,Post-traumatic wound infection,outcome
-783,782,73300,Radial styloid tenosynovitis,outcome
-783,782,433527,Endometriosis (clinical),outcome
-783,782,4028970,Tracheobronchitis,outcome
-783,782,141933,Alopecia areata,outcome
-783,782,74855,Genital herpes simplex,outcome
-783,782,40443308,Polycystic ovary syndrome,outcome
-783,782,261880,Atelectasis,outcome
-783,782,433440,Dysthymia,outcome
-783,782,4218106,Alcoholism,outcome
-783,782,198075,Condyloma acuminatum of the anogenital region,outcome
-783,782,261326,Viral pneumonia,outcome
-783,782,140362,Hypoparathyroidism,outcome
-783,782,437082,Ankylosing spondylitis,outcome
-783,782,4288544,Inguinal hernia,outcome
-783,782,4304008,Memory impairment,outcome
-783,782,440814,Torticollis,outcome
-783,782,253796,Pneumothorax,outcome
-783,782,433450,Paranoid schizophrenia,outcome
-783,782,4239381,Psychoactive substance abuse,outcome
-783,782,4223947,"Viral hepatitis, type A",outcome
-783,782,435093,Closed fracture of femur,outcome
-783,782,4207307,Infective meningitis,outcome
-783,782,432590,Delusional disorder,outcome
-783,782,30441,Sialolithiasis,outcome
-783,782,134765,Cachexia,outcome
-783,782,81336,Rectal prolapse,outcome
-783,782,4114197,Tumor of hypothalamus,outcome
-783,782,436676,Posttraumatic stress disorder,outcome
-783,782,4092565,Uterine prolapse,outcome
-783,782,198202,Cystocele,outcome
-783,782,195212,Hypercortisolism,outcome
-783,782,316457,Mallory-Weiss syndrome,outcome
-783,782,192606,Paraplegia,outcome
-783,782,374655,Mastoiditis,outcome
-783,782,436675,Anorexia nervosa,outcome
-783,782,4001458,Fatigue fracture of vertebra,outcome
-783,782,380395,Retinal dystrophy,outcome
-783,782,197036,Vesicoureteric reflux,outcome
 783,782,4299544,Acanthosis nigricans,outcome
-783,782,376132,Ectropion,outcome
+783,782,376707,Acute conjunctivitis,outcome
+783,782,141323,Acute maxillary sinusitis,outcome
+783,782,4150372,Acute otitis media,outcome
+783,782,199074,Acute pancreatitis,outcome
+783,782,4218106,Alcoholism,outcome
+783,782,139902,Allergic urticaria,outcome
+783,782,141933,Alopecia areata,outcome
+783,782,437082,Ankylosing spondylitis,outcome
+783,782,436675,Anorexia nervosa,outcome
+783,782,138463,Aphthous ulcer of mouth,outcome
+783,782,378424,Astigmatism,outcome
+783,782,261880,Atelectasis,outcome
+783,782,81878,Benign paroxysmal positional vertigo,outcome
+783,782,72576,Benign tumor of breast,outcome
 783,782,80509,Bone cyst,outcome
 783,782,438407,Bulimia nervosa,outcome
+783,782,4108467,Burn of skin,outcome
+783,782,134453,Bursitis,outcome
+783,782,134765,Cachexia,outcome
+783,782,380094,Carpal tunnel syndrome,outcome
+783,782,435613,Cellulitis,outcome
+783,782,381581,Chalazion,outcome
+783,782,444367,Cholelithiasis without obstruction,outcome
+783,782,435093,Closed fracture of femur,outcome
+783,782,198075,Condyloma acuminatum of the anogenital region,outcome
+783,782,381444,Contusion of eye,outcome
+783,782,198202,Cystocele,outcome
+783,782,432590,Delusional disorder,outcome
+783,782,133228,Dental caries,outcome
+783,782,377910,Deviated nasal septum,outcome
+783,782,194696,Dysmenorrhea,outcome
+783,782,433440,Dysthymia,outcome
+783,782,376132,Ectropion,outcome
+783,782,433527,Endometriosis (clinical),outcome
+783,782,4001458,Fatigue fracture of vertebra,outcome
+783,782,4131595,Fracture of radius,outcome
+783,782,4142905,Fracture of rib,outcome
+783,782,318800,Gastroesophageal reflux disease,outcome
+783,782,74855,Genital herpes simplex,outcome
+783,782,195212,Hypercortisolism,outcome
+783,782,440129,Hypertrophy of nasal turbinates,outcome
+783,782,140362,Hypoparathyroidism,outcome
+783,782,4207307,Infective meningitis,outcome
+783,782,4288544,Inguinal hernia,outcome
+783,782,75576,Irritable bowel syndrome,outcome
+783,782,439840,Lymphangitis,outcome
+783,782,316457,Mallory-Weiss syndrome,outcome
+783,782,374655,Mastoiditis,outcome
+783,782,4304008,Memory impairment,outcome
+783,782,201792,Nongonococcal urethritis,outcome
+783,782,4215978,Onychomycosis,outcome
+783,782,4079750,Osteoarthritis of knee,outcome
+783,782,380731,Otitis externa,outcome
+783,782,433450,Paranoid schizophrenia,outcome
+783,782,192606,Paraplegia,outcome
+783,782,253796,Pneumothorax,outcome
+783,782,40443308,Polycystic ovary syndrome,outcome
+783,782,4164337,Polyp of large intestine,outcome
+783,782,436676,Posttraumatic stress disorder,outcome
+783,782,4153877,Post-traumatic wound infection,outcome
+783,782,373478,Presbyopia,outcome
+783,782,194997,Prostatitis,outcome
+783,782,140168,Psoriasis,outcome
+783,782,4239381,Psychoactive substance abuse,outcome
+783,782,73300,Radial styloid tenosynovitis,outcome
+783,782,81336,Rectal prolapse,outcome
+783,782,380395,Retinal dystrophy,outcome
+783,782,72418,Scoliosis deformity of spine,outcome
+783,782,374366,Sensorineural hearing loss,outcome
+783,782,30441,Sialolithiasis,outcome
 783,782,4339088,Testicular mass,outcome
-816,818,318800,Gastroesophageal reflux disease,outcome
-816,818,133228,Dental caries,outcome
-816,818,376707,Acute conjunctivitis,outcome
-816,818,75576,Irritable bowel syndrome,outcome
-816,818,435613,Cellulitis,outcome
-816,818,378424,Astigmatism,outcome
-816,818,139902,Allergic urticaria,outcome
-816,818,380731,Otitis externa,outcome
-816,818,141323,Acute maxillary sinusitis,outcome
-816,818,4079750,Osteoarthritis of knee,outcome
-816,818,4150372,Acute otitis media,outcome
-816,818,440129,Hypertrophy of nasal turbinates,outcome
-816,818,4215978,Onychomycosis,outcome
-816,818,4164337,Polyp of large intestine,outcome
-816,818,381581,Chalazion,outcome
-816,818,4108467,Burn of skin,outcome
-816,818,374366,Sensorineural hearing loss,outcome
-816,818,439840,Lymphangitis,outcome
-816,818,138463,Aphthous ulcer of mouth,outcome
-816,818,81878,Benign paroxysmal positional vertigo,outcome
-816,818,377910,Deviated nasal septum,outcome
-816,818,134453,Bursitis,outcome
-816,818,201792,Nongonococcal urethritis,outcome
-816,818,194997,Prostatitis,outcome
-816,818,373478,Presbyopia,outcome
-816,818,4142905,Fracture of rib,outcome
-816,818,444367,Cholelithiasis without obstruction,outcome
-816,818,194696,Dysmenorrhea,outcome
-816,818,4049417,Vesicular eczema,outcome
-816,818,380094,Carpal tunnel syndrome,outcome
-816,818,140168,Psoriasis,outcome
-816,818,72418,Scoliosis deformity of spine,outcome
-816,818,72576,Benign tumor of breast,outcome
-816,818,4131595,Fracture of radius,outcome
-816,818,199074,Acute pancreatitis,outcome
-816,818,381444,Contusion of eye,outcome
-816,818,4153877,Post-traumatic wound infection,outcome
-816,818,73300,Radial styloid tenosynovitis,outcome
-816,818,433527,Endometriosis (clinical),outcome
-816,818,4028970,Tracheobronchitis,outcome
-816,818,141933,Alopecia areata,outcome
-816,818,74855,Genital herpes simplex,outcome
-816,818,40443308,Polycystic ovary syndrome,outcome
-816,818,261880,Atelectasis,outcome
-816,818,433440,Dysthymia,outcome
-816,818,4218106,Alcoholism,outcome
-816,818,198075,Condyloma acuminatum of the anogenital region,outcome
-816,818,261326,Viral pneumonia,outcome
-816,818,140362,Hypoparathyroidism,outcome
-816,818,437082,Ankylosing spondylitis,outcome
-816,818,4288544,Inguinal hernia,outcome
-816,818,4304008,Memory impairment,outcome
-816,818,440814,Torticollis,outcome
-816,818,253796,Pneumothorax,outcome
-816,818,433450,Paranoid schizophrenia,outcome
-816,818,4239381,Psychoactive substance abuse,outcome
-816,818,4223947,"Viral hepatitis, type A",outcome
-816,818,435093,Closed fracture of femur,outcome
-816,818,4207307,Infective meningitis,outcome
-816,818,432590,Delusional disorder,outcome
-816,818,30441,Sialolithiasis,outcome
-816,818,134765,Cachexia,outcome
-816,818,81336,Rectal prolapse,outcome
-816,818,4114197,Tumor of hypothalamus,outcome
-816,818,436676,Posttraumatic stress disorder,outcome
-816,818,4092565,Uterine prolapse,outcome
-816,818,198202,Cystocele,outcome
-816,818,195212,Hypercortisolism,outcome
-816,818,316457,Mallory-Weiss syndrome,outcome
-816,818,192606,Paraplegia,outcome
-816,818,374655,Mastoiditis,outcome
-816,818,436675,Anorexia nervosa,outcome
-816,818,4001458,Fatigue fracture of vertebra,outcome
-816,818,380395,Retinal dystrophy,outcome
-816,818,197036,Vesicoureteric reflux,outcome
+783,782,440814,Torticollis,outcome
+783,782,4028970,Tracheobronchitis,outcome
+783,782,4114197,Tumor of hypothalamus,outcome
+783,782,4092565,Uterine prolapse,outcome
+783,782,197036,Vesicoureteric reflux,outcome
+783,782,4049417,Vesicular eczema,outcome
+783,782,4223947,"Viral hepatitis, type A",outcome
+783,782,261326,Viral pneumonia,outcome
 816,818,4299544,Acanthosis nigricans,outcome
-816,818,376132,Ectropion,outcome
+816,818,376707,Acute conjunctivitis,outcome
+816,818,141323,Acute maxillary sinusitis,outcome
+816,818,4150372,Acute otitis media,outcome
+816,818,199074,Acute pancreatitis,outcome
+816,818,4218106,Alcoholism,outcome
+816,818,139902,Allergic urticaria,outcome
+816,818,141933,Alopecia areata,outcome
+816,818,437082,Ankylosing spondylitis,outcome
+816,818,436675,Anorexia nervosa,outcome
+816,818,138463,Aphthous ulcer of mouth,outcome
+816,818,378424,Astigmatism,outcome
+816,818,261880,Atelectasis,outcome
+816,818,81878,Benign paroxysmal positional vertigo,outcome
+816,818,72576,Benign tumor of breast,outcome
 816,818,80509,Bone cyst,outcome
 816,818,438407,Bulimia nervosa,outcome
+816,818,4108467,Burn of skin,outcome
+816,818,134453,Bursitis,outcome
+816,818,134765,Cachexia,outcome
+816,818,380094,Carpal tunnel syndrome,outcome
+816,818,435613,Cellulitis,outcome
+816,818,381581,Chalazion,outcome
+816,818,444367,Cholelithiasis without obstruction,outcome
+816,818,435093,Closed fracture of femur,outcome
+816,818,198075,Condyloma acuminatum of the anogenital region,outcome
+816,818,381444,Contusion of eye,outcome
+816,818,198202,Cystocele,outcome
+816,818,432590,Delusional disorder,outcome
+816,818,133228,Dental caries,outcome
+816,818,377910,Deviated nasal septum,outcome
+816,818,194696,Dysmenorrhea,outcome
+816,818,433440,Dysthymia,outcome
+816,818,376132,Ectropion,outcome
+816,818,433527,Endometriosis (clinical),outcome
+816,818,4001458,Fatigue fracture of vertebra,outcome
+816,818,4131595,Fracture of radius,outcome
+816,818,4142905,Fracture of rib,outcome
+816,818,318800,Gastroesophageal reflux disease,outcome
+816,818,74855,Genital herpes simplex,outcome
+816,818,195212,Hypercortisolism,outcome
+816,818,440129,Hypertrophy of nasal turbinates,outcome
+816,818,140362,Hypoparathyroidism,outcome
+816,818,4207307,Infective meningitis,outcome
+816,818,4288544,Inguinal hernia,outcome
+816,818,75576,Irritable bowel syndrome,outcome
+816,818,439840,Lymphangitis,outcome
+816,818,316457,Mallory-Weiss syndrome,outcome
+816,818,374655,Mastoiditis,outcome
+816,818,4304008,Memory impairment,outcome
+816,818,201792,Nongonococcal urethritis,outcome
+816,818,4215978,Onychomycosis,outcome
+816,818,4079750,Osteoarthritis of knee,outcome
+816,818,380731,Otitis externa,outcome
+816,818,433450,Paranoid schizophrenia,outcome
+816,818,192606,Paraplegia,outcome
+816,818,253796,Pneumothorax,outcome
+816,818,40443308,Polycystic ovary syndrome,outcome
+816,818,4164337,Polyp of large intestine,outcome
+816,818,436676,Posttraumatic stress disorder,outcome
+816,818,4153877,Post-traumatic wound infection,outcome
+816,818,373478,Presbyopia,outcome
+816,818,194997,Prostatitis,outcome
+816,818,140168,Psoriasis,outcome
+816,818,4239381,Psychoactive substance abuse,outcome
+816,818,73300,Radial styloid tenosynovitis,outcome
+816,818,81336,Rectal prolapse,outcome
+816,818,380395,Retinal dystrophy,outcome
+816,818,72418,Scoliosis deformity of spine,outcome
+816,818,374366,Sensorineural hearing loss,outcome
+816,818,30441,Sialolithiasis,outcome
 816,818,4339088,Testicular mass,outcome
-784,793,318800,Gastroesophageal reflux disease,outcome
-784,793,133228,Dental caries,outcome
-784,793,376707,Acute conjunctivitis,outcome
-784,793,75576,Irritable bowel syndrome,outcome
-784,793,435613,Cellulitis,outcome
-784,793,378424,Astigmatism,outcome
-784,793,139902,Allergic urticaria,outcome
-784,793,380731,Otitis externa,outcome
-784,793,141323,Acute maxillary sinusitis,outcome
-784,793,4079750,Osteoarthritis of knee,outcome
-784,793,4150372,Acute otitis media,outcome
-784,793,440129,Hypertrophy of nasal turbinates,outcome
-784,793,4215978,Onychomycosis,outcome
-784,793,4164337,Polyp of large intestine,outcome
-784,793,381581,Chalazion,outcome
-784,793,4108467,Burn of skin,outcome
-784,793,374366,Sensorineural hearing loss,outcome
-784,793,439840,Lymphangitis,outcome
-784,793,138463,Aphthous ulcer of mouth,outcome
-784,793,81878,Benign paroxysmal positional vertigo,outcome
-784,793,377910,Deviated nasal septum,outcome
-784,793,134453,Bursitis,outcome
-784,793,201792,Nongonococcal urethritis,outcome
-784,793,194997,Prostatitis,outcome
-784,793,373478,Presbyopia,outcome
-784,793,4142905,Fracture of rib,outcome
-784,793,444367,Cholelithiasis without obstruction,outcome
-784,793,194696,Dysmenorrhea,outcome
-784,793,4049417,Vesicular eczema,outcome
-784,793,380094,Carpal tunnel syndrome,outcome
-784,793,140168,Psoriasis,outcome
-784,793,72418,Scoliosis deformity of spine,outcome
-784,793,72576,Benign tumor of breast,outcome
-784,793,4131595,Fracture of radius,outcome
-784,793,199074,Acute pancreatitis,outcome
-784,793,381444,Contusion of eye,outcome
-784,793,4153877,Post-traumatic wound infection,outcome
-784,793,73300,Radial styloid tenosynovitis,outcome
-784,793,433527,Endometriosis (clinical),outcome
-784,793,4028970,Tracheobronchitis,outcome
-784,793,141933,Alopecia areata,outcome
-784,793,74855,Genital herpes simplex,outcome
-784,793,40443308,Polycystic ovary syndrome,outcome
-784,793,261880,Atelectasis,outcome
-784,793,433440,Dysthymia,outcome
-784,793,4218106,Alcoholism,outcome
-784,793,198075,Condyloma acuminatum of the anogenital region,outcome
-784,793,261326,Viral pneumonia,outcome
-784,793,140362,Hypoparathyroidism,outcome
-784,793,437082,Ankylosing spondylitis,outcome
-784,793,4288544,Inguinal hernia,outcome
-784,793,4304008,Memory impairment,outcome
-784,793,440814,Torticollis,outcome
-784,793,253796,Pneumothorax,outcome
-784,793,433450,Paranoid schizophrenia,outcome
-784,793,4239381,Psychoactive substance abuse,outcome
-784,793,4223947,"Viral hepatitis, type A",outcome
-784,793,435093,Closed fracture of femur,outcome
-784,793,4207307,Infective meningitis,outcome
-784,793,432590,Delusional disorder,outcome
-784,793,30441,Sialolithiasis,outcome
-784,793,134765,Cachexia,outcome
-784,793,81336,Rectal prolapse,outcome
-784,793,4114197,Tumor of hypothalamus,outcome
-784,793,436676,Posttraumatic stress disorder,outcome
-784,793,4092565,Uterine prolapse,outcome
-784,793,198202,Cystocele,outcome
-784,793,195212,Hypercortisolism,outcome
-784,793,316457,Mallory-Weiss syndrome,outcome
-784,793,192606,Paraplegia,outcome
-784,793,374655,Mastoiditis,outcome
-784,793,436675,Anorexia nervosa,outcome
-784,793,4001458,Fatigue fracture of vertebra,outcome
-784,793,380395,Retinal dystrophy,outcome
-784,793,197036,Vesicoureteric reflux,outcome
+816,818,440814,Torticollis,outcome
+816,818,4028970,Tracheobronchitis,outcome
+816,818,4114197,Tumor of hypothalamus,outcome
+816,818,4092565,Uterine prolapse,outcome
+816,818,197036,Vesicoureteric reflux,outcome
+816,818,4049417,Vesicular eczema,outcome
+816,818,4223947,"Viral hepatitis, type A",outcome
+816,818,261326,Viral pneumonia,outcome
 784,793,4299544,Acanthosis nigricans,outcome
-784,793,376132,Ectropion,outcome
+784,793,376707,Acute conjunctivitis,outcome
+784,793,141323,Acute maxillary sinusitis,outcome
+784,793,4150372,Acute otitis media,outcome
+784,793,199074,Acute pancreatitis,outcome
+784,793,4218106,Alcoholism,outcome
+784,793,139902,Allergic urticaria,outcome
+784,793,141933,Alopecia areata,outcome
+784,793,437082,Ankylosing spondylitis,outcome
+784,793,436675,Anorexia nervosa,outcome
+784,793,138463,Aphthous ulcer of mouth,outcome
+784,793,378424,Astigmatism,outcome
+784,793,261880,Atelectasis,outcome
+784,793,81878,Benign paroxysmal positional vertigo,outcome
+784,793,72576,Benign tumor of breast,outcome
 784,793,80509,Bone cyst,outcome
 784,793,438407,Bulimia nervosa,outcome
+784,793,4108467,Burn of skin,outcome
+784,793,134453,Bursitis,outcome
+784,793,134765,Cachexia,outcome
+784,793,380094,Carpal tunnel syndrome,outcome
+784,793,435613,Cellulitis,outcome
+784,793,381581,Chalazion,outcome
+784,793,444367,Cholelithiasis without obstruction,outcome
+784,793,435093,Closed fracture of femur,outcome
+784,793,198075,Condyloma acuminatum of the anogenital region,outcome
+784,793,381444,Contusion of eye,outcome
+784,793,198202,Cystocele,outcome
+784,793,432590,Delusional disorder,outcome
+784,793,133228,Dental caries,outcome
+784,793,377910,Deviated nasal septum,outcome
+784,793,194696,Dysmenorrhea,outcome
+784,793,433440,Dysthymia,outcome
+784,793,376132,Ectropion,outcome
+784,793,433527,Endometriosis (clinical),outcome
+784,793,4001458,Fatigue fracture of vertebra,outcome
+784,793,4131595,Fracture of radius,outcome
+784,793,4142905,Fracture of rib,outcome
+784,793,318800,Gastroesophageal reflux disease,outcome
+784,793,74855,Genital herpes simplex,outcome
+784,793,195212,Hypercortisolism,outcome
+784,793,440129,Hypertrophy of nasal turbinates,outcome
+784,793,140362,Hypoparathyroidism,outcome
+784,793,4207307,Infective meningitis,outcome
+784,793,4288544,Inguinal hernia,outcome
+784,793,75576,Irritable bowel syndrome,outcome
+784,793,439840,Lymphangitis,outcome
+784,793,316457,Mallory-Weiss syndrome,outcome
+784,793,374655,Mastoiditis,outcome
+784,793,4304008,Memory impairment,outcome
+784,793,201792,Nongonococcal urethritis,outcome
+784,793,4215978,Onychomycosis,outcome
+784,793,4079750,Osteoarthritis of knee,outcome
+784,793,380731,Otitis externa,outcome
+784,793,433450,Paranoid schizophrenia,outcome
+784,793,192606,Paraplegia,outcome
+784,793,253796,Pneumothorax,outcome
+784,793,40443308,Polycystic ovary syndrome,outcome
+784,793,4164337,Polyp of large intestine,outcome
+784,793,436676,Posttraumatic stress disorder,outcome
+784,793,4153877,Post-traumatic wound infection,outcome
+784,793,373478,Presbyopia,outcome
+784,793,194997,Prostatitis,outcome
+784,793,140168,Psoriasis,outcome
+784,793,4239381,Psychoactive substance abuse,outcome
+784,793,73300,Radial styloid tenosynovitis,outcome
+784,793,81336,Rectal prolapse,outcome
+784,793,380395,Retinal dystrophy,outcome
+784,793,72418,Scoliosis deformity of spine,outcome
+784,793,374366,Sensorineural hearing loss,outcome
+784,793,30441,Sialolithiasis,outcome
 784,793,4339088,Testicular mass,outcome
-820,821,318800,Gastroesophageal reflux disease,outcome
-820,821,133228,Dental caries,outcome
-820,821,376707,Acute conjunctivitis,outcome
-820,821,75576,Irritable bowel syndrome,outcome
-820,821,435613,Cellulitis,outcome
-820,821,378424,Astigmatism,outcome
-820,821,139902,Allergic urticaria,outcome
-820,821,380731,Otitis externa,outcome
-820,821,141323,Acute maxillary sinusitis,outcome
-820,821,4079750,Osteoarthritis of knee,outcome
-820,821,4150372,Acute otitis media,outcome
-820,821,440129,Hypertrophy of nasal turbinates,outcome
-820,821,4215978,Onychomycosis,outcome
-820,821,4164337,Polyp of large intestine,outcome
-820,821,381581,Chalazion,outcome
-820,821,4108467,Burn of skin,outcome
-820,821,374366,Sensorineural hearing loss,outcome
-820,821,439840,Lymphangitis,outcome
-820,821,138463,Aphthous ulcer of mouth,outcome
-820,821,81878,Benign paroxysmal positional vertigo,outcome
-820,821,377910,Deviated nasal septum,outcome
-820,821,134453,Bursitis,outcome
-820,821,201792,Nongonococcal urethritis,outcome
-820,821,194997,Prostatitis,outcome
-820,821,373478,Presbyopia,outcome
-820,821,4142905,Fracture of rib,outcome
-820,821,444367,Cholelithiasis without obstruction,outcome
-820,821,194696,Dysmenorrhea,outcome
-820,821,4049417,Vesicular eczema,outcome
-820,821,380094,Carpal tunnel syndrome,outcome
-820,821,140168,Psoriasis,outcome
-820,821,72418,Scoliosis deformity of spine,outcome
-820,821,72576,Benign tumor of breast,outcome
-820,821,4131595,Fracture of radius,outcome
-820,821,199074,Acute pancreatitis,outcome
-820,821,381444,Contusion of eye,outcome
-820,821,4153877,Post-traumatic wound infection,outcome
-820,821,73300,Radial styloid tenosynovitis,outcome
-820,821,433527,Endometriosis (clinical),outcome
-820,821,4028970,Tracheobronchitis,outcome
-820,821,141933,Alopecia areata,outcome
-820,821,74855,Genital herpes simplex,outcome
-820,821,40443308,Polycystic ovary syndrome,outcome
-820,821,261880,Atelectasis,outcome
-820,821,433440,Dysthymia,outcome
-820,821,4218106,Alcoholism,outcome
-820,821,198075,Condyloma acuminatum of the anogenital region,outcome
-820,821,261326,Viral pneumonia,outcome
-820,821,140362,Hypoparathyroidism,outcome
-820,821,437082,Ankylosing spondylitis,outcome
-820,821,4288544,Inguinal hernia,outcome
-820,821,4304008,Memory impairment,outcome
-820,821,440814,Torticollis,outcome
-820,821,253796,Pneumothorax,outcome
-820,821,433450,Paranoid schizophrenia,outcome
-820,821,4239381,Psychoactive substance abuse,outcome
-820,821,4223947,"Viral hepatitis, type A",outcome
-820,821,435093,Closed fracture of femur,outcome
-820,821,4207307,Infective meningitis,outcome
-820,821,432590,Delusional disorder,outcome
-820,821,30441,Sialolithiasis,outcome
-820,821,134765,Cachexia,outcome
-820,821,81336,Rectal prolapse,outcome
-820,821,4114197,Tumor of hypothalamus,outcome
-820,821,436676,Posttraumatic stress disorder,outcome
-820,821,4092565,Uterine prolapse,outcome
-820,821,198202,Cystocele,outcome
-820,821,195212,Hypercortisolism,outcome
-820,821,316457,Mallory-Weiss syndrome,outcome
-820,821,192606,Paraplegia,outcome
-820,821,374655,Mastoiditis,outcome
-820,821,436675,Anorexia nervosa,outcome
-820,821,4001458,Fatigue fracture of vertebra,outcome
-820,821,380395,Retinal dystrophy,outcome
-820,821,197036,Vesicoureteric reflux,outcome
-820,821,4299544,Acanthosis nigricans,outcome
-820,821,376132,Ectropion,outcome
-820,821,80509,Bone cyst,outcome
-820,821,438407,Bulimia nervosa,outcome
-820,821,4339088,Testicular mass,outcome
-784,782,318800,Gastroesophageal reflux disease,outcome
-784,782,133228,Dental caries,outcome
-784,782,376707,Acute conjunctivitis,outcome
-784,782,75576,Irritable bowel syndrome,outcome
-784,782,435613,Cellulitis,outcome
-784,782,378424,Astigmatism,outcome
-784,782,139902,Allergic urticaria,outcome
-784,782,380731,Otitis externa,outcome
-784,782,141323,Acute maxillary sinusitis,outcome
-784,782,4079750,Osteoarthritis of knee,outcome
-784,782,4150372,Acute otitis media,outcome
-784,782,440129,Hypertrophy of nasal turbinates,outcome
-784,782,4215978,Onychomycosis,outcome
-784,782,4164337,Polyp of large intestine,outcome
-784,782,381581,Chalazion,outcome
-784,782,4108467,Burn of skin,outcome
-784,782,374366,Sensorineural hearing loss,outcome
-784,782,439840,Lymphangitis,outcome
-784,782,138463,Aphthous ulcer of mouth,outcome
-784,782,81878,Benign paroxysmal positional vertigo,outcome
-784,782,377910,Deviated nasal septum,outcome
-784,782,134453,Bursitis,outcome
-784,782,201792,Nongonococcal urethritis,outcome
-784,782,194997,Prostatitis,outcome
-784,782,373478,Presbyopia,outcome
-784,782,4142905,Fracture of rib,outcome
-784,782,444367,Cholelithiasis without obstruction,outcome
-784,782,194696,Dysmenorrhea,outcome
-784,782,4049417,Vesicular eczema,outcome
-784,782,380094,Carpal tunnel syndrome,outcome
-784,782,140168,Psoriasis,outcome
-784,782,72418,Scoliosis deformity of spine,outcome
-784,782,72576,Benign tumor of breast,outcome
-784,782,4131595,Fracture of radius,outcome
-784,782,199074,Acute pancreatitis,outcome
-784,782,381444,Contusion of eye,outcome
-784,782,4153877,Post-traumatic wound infection,outcome
-784,782,73300,Radial styloid tenosynovitis,outcome
-784,782,433527,Endometriosis (clinical),outcome
-784,782,4028970,Tracheobronchitis,outcome
-784,782,141933,Alopecia areata,outcome
-784,782,74855,Genital herpes simplex,outcome
-784,782,40443308,Polycystic ovary syndrome,outcome
-784,782,261880,Atelectasis,outcome
-784,782,433440,Dysthymia,outcome
-784,782,4218106,Alcoholism,outcome
-784,782,198075,Condyloma acuminatum of the anogenital region,outcome
-784,782,261326,Viral pneumonia,outcome
-784,782,140362,Hypoparathyroidism,outcome
-784,782,437082,Ankylosing spondylitis,outcome
-784,782,4288544,Inguinal hernia,outcome
-784,782,4304008,Memory impairment,outcome
-784,782,440814,Torticollis,outcome
-784,782,253796,Pneumothorax,outcome
-784,782,433450,Paranoid schizophrenia,outcome
-784,782,4239381,Psychoactive substance abuse,outcome
-784,782,4223947,"Viral hepatitis, type A",outcome
-784,782,435093,Closed fracture of femur,outcome
-784,782,4207307,Infective meningitis,outcome
-784,782,432590,Delusional disorder,outcome
-784,782,30441,Sialolithiasis,outcome
-784,782,134765,Cachexia,outcome
-784,782,81336,Rectal prolapse,outcome
-784,782,4114197,Tumor of hypothalamus,outcome
-784,782,436676,Posttraumatic stress disorder,outcome
-784,782,4092565,Uterine prolapse,outcome
-784,782,198202,Cystocele,outcome
-784,782,195212,Hypercortisolism,outcome
-784,782,316457,Mallory-Weiss syndrome,outcome
-784,782,192606,Paraplegia,outcome
-784,782,374655,Mastoiditis,outcome
-784,782,436675,Anorexia nervosa,outcome
-784,782,4001458,Fatigue fracture of vertebra,outcome
-784,782,380395,Retinal dystrophy,outcome
-784,782,197036,Vesicoureteric reflux,outcome
+784,793,440814,Torticollis,outcome
+784,793,4028970,Tracheobronchitis,outcome
+784,793,4114197,Tumor of hypothalamus,outcome
+784,793,4092565,Uterine prolapse,outcome
+784,793,197036,Vesicoureteric reflux,outcome
+784,793,4049417,Vesicular eczema,outcome
+784,793,4223947,"Viral hepatitis, type A",outcome
+784,793,261326,Viral pneumonia,outcome
 784,782,4299544,Acanthosis nigricans,outcome
-784,782,376132,Ectropion,outcome
+784,782,376707,Acute conjunctivitis,outcome
+784,782,141323,Acute maxillary sinusitis,outcome
+784,782,4150372,Acute otitis media,outcome
+784,782,199074,Acute pancreatitis,outcome
+784,782,4218106,Alcoholism,outcome
+784,782,139902,Allergic urticaria,outcome
+784,782,141933,Alopecia areata,outcome
+784,782,437082,Ankylosing spondylitis,outcome
+784,782,436675,Anorexia nervosa,outcome
+784,782,138463,Aphthous ulcer of mouth,outcome
+784,782,378424,Astigmatism,outcome
+784,782,261880,Atelectasis,outcome
+784,782,81878,Benign paroxysmal positional vertigo,outcome
+784,782,72576,Benign tumor of breast,outcome
 784,782,80509,Bone cyst,outcome
 784,782,438407,Bulimia nervosa,outcome
+784,782,4108467,Burn of skin,outcome
+784,782,134453,Bursitis,outcome
+784,782,134765,Cachexia,outcome
+784,782,380094,Carpal tunnel syndrome,outcome
+784,782,435613,Cellulitis,outcome
+784,782,381581,Chalazion,outcome
+784,782,444367,Cholelithiasis without obstruction,outcome
+784,782,435093,Closed fracture of femur,outcome
+784,782,198075,Condyloma acuminatum of the anogenital region,outcome
+784,782,381444,Contusion of eye,outcome
+784,782,198202,Cystocele,outcome
+784,782,432590,Delusional disorder,outcome
+784,782,133228,Dental caries,outcome
+784,782,377910,Deviated nasal septum,outcome
+784,782,194696,Dysmenorrhea,outcome
+784,782,433440,Dysthymia,outcome
+784,782,376132,Ectropion,outcome
+784,782,433527,Endometriosis (clinical),outcome
+784,782,4001458,Fatigue fracture of vertebra,outcome
+784,782,4131595,Fracture of radius,outcome
+784,782,4142905,Fracture of rib,outcome
+784,782,318800,Gastroesophageal reflux disease,outcome
+784,782,74855,Genital herpes simplex,outcome
+784,782,195212,Hypercortisolism,outcome
+784,782,440129,Hypertrophy of nasal turbinates,outcome
+784,782,140362,Hypoparathyroidism,outcome
+784,782,4207307,Infective meningitis,outcome
+784,782,4288544,Inguinal hernia,outcome
+784,782,75576,Irritable bowel syndrome,outcome
+784,782,439840,Lymphangitis,outcome
+784,782,316457,Mallory-Weiss syndrome,outcome
+784,782,374655,Mastoiditis,outcome
+784,782,4304008,Memory impairment,outcome
+784,782,201792,Nongonococcal urethritis,outcome
+784,782,4215978,Onychomycosis,outcome
+784,782,4079750,Osteoarthritis of knee,outcome
+784,782,380731,Otitis externa,outcome
+784,782,433450,Paranoid schizophrenia,outcome
+784,782,192606,Paraplegia,outcome
+784,782,253796,Pneumothorax,outcome
+784,782,40443308,Polycystic ovary syndrome,outcome
+784,782,4164337,Polyp of large intestine,outcome
+784,782,436676,Posttraumatic stress disorder,outcome
+784,782,4153877,Post-traumatic wound infection,outcome
+784,782,373478,Presbyopia,outcome
+784,782,194997,Prostatitis,outcome
+784,782,140168,Psoriasis,outcome
+784,782,4239381,Psychoactive substance abuse,outcome
+784,782,73300,Radial styloid tenosynovitis,outcome
+784,782,81336,Rectal prolapse,outcome
+784,782,380395,Retinal dystrophy,outcome
+784,782,72418,Scoliosis deformity of spine,outcome
+784,782,374366,Sensorineural hearing loss,outcome
+784,782,30441,Sialolithiasis,outcome
 784,782,4339088,Testicular mass,outcome
-820,818,318800,Gastroesophageal reflux disease,outcome
-820,818,133228,Dental caries,outcome
-820,818,376707,Acute conjunctivitis,outcome
-820,818,75576,Irritable bowel syndrome,outcome
-820,818,435613,Cellulitis,outcome
-820,818,378424,Astigmatism,outcome
-820,818,139902,Allergic urticaria,outcome
-820,818,380731,Otitis externa,outcome
-820,818,141323,Acute maxillary sinusitis,outcome
-820,818,4079750,Osteoarthritis of knee,outcome
-820,818,4150372,Acute otitis media,outcome
-820,818,440129,Hypertrophy of nasal turbinates,outcome
-820,818,4215978,Onychomycosis,outcome
-820,818,4164337,Polyp of large intestine,outcome
-820,818,381581,Chalazion,outcome
-820,818,4108467,Burn of skin,outcome
-820,818,374366,Sensorineural hearing loss,outcome
-820,818,439840,Lymphangitis,outcome
-820,818,138463,Aphthous ulcer of mouth,outcome
-820,818,81878,Benign paroxysmal positional vertigo,outcome
-820,818,377910,Deviated nasal septum,outcome
-820,818,134453,Bursitis,outcome
-820,818,201792,Nongonococcal urethritis,outcome
-820,818,194997,Prostatitis,outcome
-820,818,373478,Presbyopia,outcome
-820,818,4142905,Fracture of rib,outcome
-820,818,444367,Cholelithiasis without obstruction,outcome
-820,818,194696,Dysmenorrhea,outcome
-820,818,4049417,Vesicular eczema,outcome
-820,818,380094,Carpal tunnel syndrome,outcome
-820,818,140168,Psoriasis,outcome
-820,818,72418,Scoliosis deformity of spine,outcome
-820,818,72576,Benign tumor of breast,outcome
-820,818,4131595,Fracture of radius,outcome
-820,818,199074,Acute pancreatitis,outcome
-820,818,381444,Contusion of eye,outcome
-820,818,4153877,Post-traumatic wound infection,outcome
-820,818,73300,Radial styloid tenosynovitis,outcome
-820,818,433527,Endometriosis (clinical),outcome
-820,818,4028970,Tracheobronchitis,outcome
-820,818,141933,Alopecia areata,outcome
-820,818,74855,Genital herpes simplex,outcome
-820,818,40443308,Polycystic ovary syndrome,outcome
-820,818,261880,Atelectasis,outcome
-820,818,433440,Dysthymia,outcome
-820,818,4218106,Alcoholism,outcome
-820,818,198075,Condyloma acuminatum of the anogenital region,outcome
-820,818,261326,Viral pneumonia,outcome
-820,818,140362,Hypoparathyroidism,outcome
-820,818,437082,Ankylosing spondylitis,outcome
-820,818,4288544,Inguinal hernia,outcome
-820,818,4304008,Memory impairment,outcome
-820,818,440814,Torticollis,outcome
-820,818,253796,Pneumothorax,outcome
-820,818,433450,Paranoid schizophrenia,outcome
-820,818,4239381,Psychoactive substance abuse,outcome
-820,818,4223947,"Viral hepatitis, type A",outcome
-820,818,435093,Closed fracture of femur,outcome
-820,818,4207307,Infective meningitis,outcome
-820,818,432590,Delusional disorder,outcome
-820,818,30441,Sialolithiasis,outcome
-820,818,134765,Cachexia,outcome
-820,818,81336,Rectal prolapse,outcome
-820,818,4114197,Tumor of hypothalamus,outcome
-820,818,436676,Posttraumatic stress disorder,outcome
-820,818,4092565,Uterine prolapse,outcome
-820,818,198202,Cystocele,outcome
-820,818,195212,Hypercortisolism,outcome
-820,818,316457,Mallory-Weiss syndrome,outcome
-820,818,192606,Paraplegia,outcome
-820,818,374655,Mastoiditis,outcome
-820,818,436675,Anorexia nervosa,outcome
-820,818,4001458,Fatigue fracture of vertebra,outcome
-820,818,380395,Retinal dystrophy,outcome
-820,818,197036,Vesicoureteric reflux,outcome
+784,782,440814,Torticollis,outcome
+784,782,4028970,Tracheobronchitis,outcome
+784,782,4114197,Tumor of hypothalamus,outcome
+784,782,4092565,Uterine prolapse,outcome
+784,782,197036,Vesicoureteric reflux,outcome
+784,782,4049417,Vesicular eczema,outcome
+784,782,4223947,"Viral hepatitis, type A",outcome
+784,782,261326,Viral pneumonia,outcome
 820,818,4299544,Acanthosis nigricans,outcome
-820,818,376132,Ectropion,outcome
+820,818,376707,Acute conjunctivitis,outcome
+820,818,141323,Acute maxillary sinusitis,outcome
+820,818,4150372,Acute otitis media,outcome
+820,818,199074,Acute pancreatitis,outcome
+820,818,4218106,Alcoholism,outcome
+820,818,139902,Allergic urticaria,outcome
+820,818,141933,Alopecia areata,outcome
+820,818,437082,Ankylosing spondylitis,outcome
+820,818,436675,Anorexia nervosa,outcome
+820,818,138463,Aphthous ulcer of mouth,outcome
+820,818,378424,Astigmatism,outcome
+820,818,261880,Atelectasis,outcome
+820,818,81878,Benign paroxysmal positional vertigo,outcome
+820,818,72576,Benign tumor of breast,outcome
 820,818,80509,Bone cyst,outcome
 820,818,438407,Bulimia nervosa,outcome
+820,818,4108467,Burn of skin,outcome
+820,818,134453,Bursitis,outcome
+820,818,134765,Cachexia,outcome
+820,818,380094,Carpal tunnel syndrome,outcome
+820,818,435613,Cellulitis,outcome
+820,818,381581,Chalazion,outcome
+820,818,444367,Cholelithiasis without obstruction,outcome
+820,818,435093,Closed fracture of femur,outcome
+820,818,198075,Condyloma acuminatum of the anogenital region,outcome
+820,818,381444,Contusion of eye,outcome
+820,818,198202,Cystocele,outcome
+820,818,432590,Delusional disorder,outcome
+820,818,133228,Dental caries,outcome
+820,818,377910,Deviated nasal septum,outcome
+820,818,194696,Dysmenorrhea,outcome
+820,818,433440,Dysthymia,outcome
+820,818,376132,Ectropion,outcome
+820,818,433527,Endometriosis (clinical),outcome
+820,818,4001458,Fatigue fracture of vertebra,outcome
+820,818,4131595,Fracture of radius,outcome
+820,818,4142905,Fracture of rib,outcome
+820,818,318800,Gastroesophageal reflux disease,outcome
+820,818,74855,Genital herpes simplex,outcome
+820,818,195212,Hypercortisolism,outcome
+820,818,440129,Hypertrophy of nasal turbinates,outcome
+820,818,140362,Hypoparathyroidism,outcome
+820,818,4207307,Infective meningitis,outcome
+820,818,4288544,Inguinal hernia,outcome
+820,818,75576,Irritable bowel syndrome,outcome
+820,818,439840,Lymphangitis,outcome
+820,818,316457,Mallory-Weiss syndrome,outcome
+820,818,374655,Mastoiditis,outcome
+820,818,4304008,Memory impairment,outcome
+820,818,201792,Nongonococcal urethritis,outcome
+820,818,4215978,Onychomycosis,outcome
+820,818,4079750,Osteoarthritis of knee,outcome
+820,818,380731,Otitis externa,outcome
+820,818,433450,Paranoid schizophrenia,outcome
+820,818,192606,Paraplegia,outcome
+820,818,253796,Pneumothorax,outcome
+820,818,40443308,Polycystic ovary syndrome,outcome
+820,818,4164337,Polyp of large intestine,outcome
+820,818,436676,Posttraumatic stress disorder,outcome
+820,818,4153877,Post-traumatic wound infection,outcome
+820,818,373478,Presbyopia,outcome
+820,818,194997,Prostatitis,outcome
+820,818,140168,Psoriasis,outcome
+820,818,4239381,Psychoactive substance abuse,outcome
+820,818,73300,Radial styloid tenosynovitis,outcome
+820,818,81336,Rectal prolapse,outcome
+820,818,380395,Retinal dystrophy,outcome
+820,818,72418,Scoliosis deformity of spine,outcome
+820,818,374366,Sensorineural hearing loss,outcome
+820,818,30441,Sialolithiasis,outcome
 820,818,4339088,Testicular mass,outcome
-793,782,318800,Gastroesophageal reflux disease,outcome
-793,782,133228,Dental caries,outcome
-793,782,376707,Acute conjunctivitis,outcome
-793,782,75576,Irritable bowel syndrome,outcome
-793,782,435613,Cellulitis,outcome
-793,782,378424,Astigmatism,outcome
-793,782,139902,Allergic urticaria,outcome
-793,782,380731,Otitis externa,outcome
-793,782,141323,Acute maxillary sinusitis,outcome
-793,782,4079750,Osteoarthritis of knee,outcome
-793,782,4150372,Acute otitis media,outcome
-793,782,440129,Hypertrophy of nasal turbinates,outcome
-793,782,4215978,Onychomycosis,outcome
-793,782,4164337,Polyp of large intestine,outcome
-793,782,381581,Chalazion,outcome
-793,782,4108467,Burn of skin,outcome
-793,782,374366,Sensorineural hearing loss,outcome
-793,782,439840,Lymphangitis,outcome
-793,782,138463,Aphthous ulcer of mouth,outcome
-793,782,81878,Benign paroxysmal positional vertigo,outcome
-793,782,377910,Deviated nasal septum,outcome
-793,782,134453,Bursitis,outcome
-793,782,201792,Nongonococcal urethritis,outcome
-793,782,194997,Prostatitis,outcome
-793,782,373478,Presbyopia,outcome
-793,782,4142905,Fracture of rib,outcome
-793,782,444367,Cholelithiasis without obstruction,outcome
-793,782,194696,Dysmenorrhea,outcome
-793,782,4049417,Vesicular eczema,outcome
-793,782,380094,Carpal tunnel syndrome,outcome
-793,782,140168,Psoriasis,outcome
-793,782,72418,Scoliosis deformity of spine,outcome
-793,782,72576,Benign tumor of breast,outcome
-793,782,4131595,Fracture of radius,outcome
-793,782,199074,Acute pancreatitis,outcome
-793,782,381444,Contusion of eye,outcome
-793,782,4153877,Post-traumatic wound infection,outcome
-793,782,73300,Radial styloid tenosynovitis,outcome
-793,782,433527,Endometriosis (clinical),outcome
-793,782,4028970,Tracheobronchitis,outcome
-793,782,141933,Alopecia areata,outcome
-793,782,74855,Genital herpes simplex,outcome
-793,782,40443308,Polycystic ovary syndrome,outcome
-793,782,261880,Atelectasis,outcome
-793,782,433440,Dysthymia,outcome
-793,782,4218106,Alcoholism,outcome
-793,782,198075,Condyloma acuminatum of the anogenital region,outcome
-793,782,261326,Viral pneumonia,outcome
-793,782,140362,Hypoparathyroidism,outcome
-793,782,437082,Ankylosing spondylitis,outcome
-793,782,4288544,Inguinal hernia,outcome
-793,782,4304008,Memory impairment,outcome
-793,782,440814,Torticollis,outcome
-793,782,253796,Pneumothorax,outcome
-793,782,433450,Paranoid schizophrenia,outcome
-793,782,4239381,Psychoactive substance abuse,outcome
-793,782,4223947,"Viral hepatitis, type A",outcome
-793,782,435093,Closed fracture of femur,outcome
-793,782,4207307,Infective meningitis,outcome
-793,782,432590,Delusional disorder,outcome
-793,782,30441,Sialolithiasis,outcome
-793,782,134765,Cachexia,outcome
-793,782,81336,Rectal prolapse,outcome
-793,782,4114197,Tumor of hypothalamus,outcome
-793,782,436676,Posttraumatic stress disorder,outcome
-793,782,4092565,Uterine prolapse,outcome
-793,782,198202,Cystocele,outcome
-793,782,195212,Hypercortisolism,outcome
-793,782,316457,Mallory-Weiss syndrome,outcome
-793,782,192606,Paraplegia,outcome
-793,782,374655,Mastoiditis,outcome
-793,782,436675,Anorexia nervosa,outcome
-793,782,4001458,Fatigue fracture of vertebra,outcome
-793,782,380395,Retinal dystrophy,outcome
-793,782,197036,Vesicoureteric reflux,outcome
+820,818,440814,Torticollis,outcome
+820,818,4028970,Tracheobronchitis,outcome
+820,818,4114197,Tumor of hypothalamus,outcome
+820,818,4092565,Uterine prolapse,outcome
+820,818,197036,Vesicoureteric reflux,outcome
+820,818,4049417,Vesicular eczema,outcome
+820,818,4223947,"Viral hepatitis, type A",outcome
+820,818,261326,Viral pneumonia,outcome
 793,782,4299544,Acanthosis nigricans,outcome
-793,782,376132,Ectropion,outcome
+793,782,376707,Acute conjunctivitis,outcome
+793,782,141323,Acute maxillary sinusitis,outcome
+793,782,4150372,Acute otitis media,outcome
+793,782,199074,Acute pancreatitis,outcome
+793,782,4218106,Alcoholism,outcome
+793,782,139902,Allergic urticaria,outcome
+793,782,141933,Alopecia areata,outcome
+793,782,437082,Ankylosing spondylitis,outcome
+793,782,436675,Anorexia nervosa,outcome
+793,782,138463,Aphthous ulcer of mouth,outcome
+793,782,378424,Astigmatism,outcome
+793,782,261880,Atelectasis,outcome
+793,782,81878,Benign paroxysmal positional vertigo,outcome
+793,782,72576,Benign tumor of breast,outcome
 793,782,80509,Bone cyst,outcome
 793,782,438407,Bulimia nervosa,outcome
+793,782,4108467,Burn of skin,outcome
+793,782,134453,Bursitis,outcome
+793,782,134765,Cachexia,outcome
+793,782,380094,Carpal tunnel syndrome,outcome
+793,782,435613,Cellulitis,outcome
+793,782,381581,Chalazion,outcome
+793,782,444367,Cholelithiasis without obstruction,outcome
+793,782,435093,Closed fracture of femur,outcome
+793,782,198075,Condyloma acuminatum of the anogenital region,outcome
+793,782,381444,Contusion of eye,outcome
+793,782,198202,Cystocele,outcome
+793,782,432590,Delusional disorder,outcome
+793,782,133228,Dental caries,outcome
+793,782,377910,Deviated nasal septum,outcome
+793,782,194696,Dysmenorrhea,outcome
+793,782,433440,Dysthymia,outcome
+793,782,376132,Ectropion,outcome
+793,782,433527,Endometriosis (clinical),outcome
+793,782,4001458,Fatigue fracture of vertebra,outcome
+793,782,4131595,Fracture of radius,outcome
+793,782,4142905,Fracture of rib,outcome
+793,782,318800,Gastroesophageal reflux disease,outcome
+793,782,74855,Genital herpes simplex,outcome
+793,782,195212,Hypercortisolism,outcome
+793,782,440129,Hypertrophy of nasal turbinates,outcome
+793,782,140362,Hypoparathyroidism,outcome
+793,782,4207307,Infective meningitis,outcome
+793,782,4288544,Inguinal hernia,outcome
+793,782,75576,Irritable bowel syndrome,outcome
+793,782,439840,Lymphangitis,outcome
+793,782,316457,Mallory-Weiss syndrome,outcome
+793,782,374655,Mastoiditis,outcome
+793,782,4304008,Memory impairment,outcome
+793,782,201792,Nongonococcal urethritis,outcome
+793,782,4215978,Onychomycosis,outcome
+793,782,4079750,Osteoarthritis of knee,outcome
+793,782,380731,Otitis externa,outcome
+793,782,433450,Paranoid schizophrenia,outcome
+793,782,192606,Paraplegia,outcome
+793,782,253796,Pneumothorax,outcome
+793,782,40443308,Polycystic ovary syndrome,outcome
+793,782,4164337,Polyp of large intestine,outcome
+793,782,436676,Posttraumatic stress disorder,outcome
+793,782,4153877,Post-traumatic wound infection,outcome
+793,782,373478,Presbyopia,outcome
+793,782,194997,Prostatitis,outcome
+793,782,140168,Psoriasis,outcome
+793,782,4239381,Psychoactive substance abuse,outcome
+793,782,73300,Radial styloid tenosynovitis,outcome
+793,782,81336,Rectal prolapse,outcome
+793,782,380395,Retinal dystrophy,outcome
+793,782,72418,Scoliosis deformity of spine,outcome
+793,782,374366,Sensorineural hearing loss,outcome
+793,782,30441,Sialolithiasis,outcome
 793,782,4339088,Testicular mass,outcome
-821,818,318800,Gastroesophageal reflux disease,outcome
-821,818,133228,Dental caries,outcome
-821,818,376707,Acute conjunctivitis,outcome
-821,818,75576,Irritable bowel syndrome,outcome
-821,818,435613,Cellulitis,outcome
-821,818,378424,Astigmatism,outcome
-821,818,139902,Allergic urticaria,outcome
-821,818,380731,Otitis externa,outcome
-821,818,141323,Acute maxillary sinusitis,outcome
-821,818,4079750,Osteoarthritis of knee,outcome
-821,818,4150372,Acute otitis media,outcome
-821,818,440129,Hypertrophy of nasal turbinates,outcome
-821,818,4215978,Onychomycosis,outcome
-821,818,4164337,Polyp of large intestine,outcome
-821,818,381581,Chalazion,outcome
-821,818,4108467,Burn of skin,outcome
-821,818,374366,Sensorineural hearing loss,outcome
-821,818,439840,Lymphangitis,outcome
-821,818,138463,Aphthous ulcer of mouth,outcome
-821,818,81878,Benign paroxysmal positional vertigo,outcome
-821,818,377910,Deviated nasal septum,outcome
-821,818,134453,Bursitis,outcome
-821,818,201792,Nongonococcal urethritis,outcome
-821,818,194997,Prostatitis,outcome
-821,818,373478,Presbyopia,outcome
-821,818,4142905,Fracture of rib,outcome
-821,818,444367,Cholelithiasis without obstruction,outcome
-821,818,194696,Dysmenorrhea,outcome
-821,818,4049417,Vesicular eczema,outcome
-821,818,380094,Carpal tunnel syndrome,outcome
-821,818,140168,Psoriasis,outcome
-821,818,72418,Scoliosis deformity of spine,outcome
-821,818,72576,Benign tumor of breast,outcome
-821,818,4131595,Fracture of radius,outcome
-821,818,199074,Acute pancreatitis,outcome
-821,818,381444,Contusion of eye,outcome
-821,818,4153877,Post-traumatic wound infection,outcome
-821,818,73300,Radial styloid tenosynovitis,outcome
-821,818,433527,Endometriosis (clinical),outcome
-821,818,4028970,Tracheobronchitis,outcome
-821,818,141933,Alopecia areata,outcome
-821,818,74855,Genital herpes simplex,outcome
-821,818,40443308,Polycystic ovary syndrome,outcome
-821,818,261880,Atelectasis,outcome
-821,818,433440,Dysthymia,outcome
-821,818,4218106,Alcoholism,outcome
-821,818,198075,Condyloma acuminatum of the anogenital region,outcome
-821,818,261326,Viral pneumonia,outcome
-821,818,140362,Hypoparathyroidism,outcome
-821,818,437082,Ankylosing spondylitis,outcome
-821,818,4288544,Inguinal hernia,outcome
-821,818,4304008,Memory impairment,outcome
-821,818,440814,Torticollis,outcome
-821,818,253796,Pneumothorax,outcome
-821,818,433450,Paranoid schizophrenia,outcome
-821,818,4239381,Psychoactive substance abuse,outcome
-821,818,4223947,"Viral hepatitis, type A",outcome
-821,818,435093,Closed fracture of femur,outcome
-821,818,4207307,Infective meningitis,outcome
-821,818,432590,Delusional disorder,outcome
-821,818,30441,Sialolithiasis,outcome
-821,818,134765,Cachexia,outcome
-821,818,81336,Rectal prolapse,outcome
-821,818,4114197,Tumor of hypothalamus,outcome
-821,818,436676,Posttraumatic stress disorder,outcome
-821,818,4092565,Uterine prolapse,outcome
-821,818,198202,Cystocele,outcome
-821,818,195212,Hypercortisolism,outcome
-821,818,316457,Mallory-Weiss syndrome,outcome
-821,818,192606,Paraplegia,outcome
-821,818,374655,Mastoiditis,outcome
-821,818,436675,Anorexia nervosa,outcome
-821,818,4001458,Fatigue fracture of vertebra,outcome
-821,818,380395,Retinal dystrophy,outcome
-821,818,197036,Vesicoureteric reflux,outcome
+793,782,440814,Torticollis,outcome
+793,782,4028970,Tracheobronchitis,outcome
+793,782,4114197,Tumor of hypothalamus,outcome
+793,782,4092565,Uterine prolapse,outcome
+793,782,197036,Vesicoureteric reflux,outcome
+793,782,4049417,Vesicular eczema,outcome
+793,782,4223947,"Viral hepatitis, type A",outcome
+793,782,261326,Viral pneumonia,outcome
 821,818,4299544,Acanthosis nigricans,outcome
-821,818,376132,Ectropion,outcome
+821,818,376707,Acute conjunctivitis,outcome
+821,818,141323,Acute maxillary sinusitis,outcome
+821,818,4150372,Acute otitis media,outcome
+821,818,199074,Acute pancreatitis,outcome
+821,818,4218106,Alcoholism,outcome
+821,818,139902,Allergic urticaria,outcome
+821,818,141933,Alopecia areata,outcome
+821,818,437082,Ankylosing spondylitis,outcome
+821,818,436675,Anorexia nervosa,outcome
+821,818,138463,Aphthous ulcer of mouth,outcome
+821,818,378424,Astigmatism,outcome
+821,818,261880,Atelectasis,outcome
+821,818,81878,Benign paroxysmal positional vertigo,outcome
+821,818,72576,Benign tumor of breast,outcome
 821,818,80509,Bone cyst,outcome
 821,818,438407,Bulimia nervosa,outcome
+821,818,4108467,Burn of skin,outcome
+821,818,134453,Bursitis,outcome
+821,818,134765,Cachexia,outcome
+821,818,380094,Carpal tunnel syndrome,outcome
+821,818,435613,Cellulitis,outcome
+821,818,381581,Chalazion,outcome
+821,818,444367,Cholelithiasis without obstruction,outcome
+821,818,435093,Closed fracture of femur,outcome
+821,818,198075,Condyloma acuminatum of the anogenital region,outcome
+821,818,381444,Contusion of eye,outcome
+821,818,198202,Cystocele,outcome
+821,818,432590,Delusional disorder,outcome
+821,818,133228,Dental caries,outcome
+821,818,377910,Deviated nasal septum,outcome
+821,818,194696,Dysmenorrhea,outcome
+821,818,433440,Dysthymia,outcome
+821,818,376132,Ectropion,outcome
+821,818,433527,Endometriosis (clinical),outcome
+821,818,4001458,Fatigue fracture of vertebra,outcome
+821,818,4131595,Fracture of radius,outcome
+821,818,4142905,Fracture of rib,outcome
+821,818,318800,Gastroesophageal reflux disease,outcome
+821,818,74855,Genital herpes simplex,outcome
+821,818,195212,Hypercortisolism,outcome
+821,818,440129,Hypertrophy of nasal turbinates,outcome
+821,818,140362,Hypoparathyroidism,outcome
+821,818,4207307,Infective meningitis,outcome
+821,818,4288544,Inguinal hernia,outcome
+821,818,75576,Irritable bowel syndrome,outcome
+821,818,439840,Lymphangitis,outcome
+821,818,316457,Mallory-Weiss syndrome,outcome
+821,818,374655,Mastoiditis,outcome
+821,818,4304008,Memory impairment,outcome
+821,818,201792,Nongonococcal urethritis,outcome
+821,818,4215978,Onychomycosis,outcome
+821,818,4079750,Osteoarthritis of knee,outcome
+821,818,380731,Otitis externa,outcome
+821,818,433450,Paranoid schizophrenia,outcome
+821,818,192606,Paraplegia,outcome
+821,818,253796,Pneumothorax,outcome
+821,818,40443308,Polycystic ovary syndrome,outcome
+821,818,4164337,Polyp of large intestine,outcome
+821,818,436676,Posttraumatic stress disorder,outcome
+821,818,4153877,Post-traumatic wound infection,outcome
+821,818,373478,Presbyopia,outcome
+821,818,194997,Prostatitis,outcome
+821,818,140168,Psoriasis,outcome
+821,818,4239381,Psychoactive substance abuse,outcome
+821,818,73300,Radial styloid tenosynovitis,outcome
+821,818,81336,Rectal prolapse,outcome
+821,818,380395,Retinal dystrophy,outcome
+821,818,72418,Scoliosis deformity of spine,outcome
+821,818,374366,Sensorineural hearing loss,outcome
+821,818,30441,Sialolithiasis,outcome
 821,818,4339088,Testicular mass,outcome
-783,792,318800,Gastroesophageal reflux disease,outcome
-783,792,133228,Dental caries,outcome
-783,792,376707,Acute conjunctivitis,outcome
-783,792,75576,Irritable bowel syndrome,outcome
-783,792,435613,Cellulitis,outcome
-783,792,378424,Astigmatism,outcome
-783,792,139902,Allergic urticaria,outcome
-783,792,380731,Otitis externa,outcome
-783,792,141323,Acute maxillary sinusitis,outcome
-783,792,4079750,Osteoarthritis of knee,outcome
-783,792,4150372,Acute otitis media,outcome
-783,792,440129,Hypertrophy of nasal turbinates,outcome
-783,792,4215978,Onychomycosis,outcome
-783,792,4164337,Polyp of large intestine,outcome
-783,792,381581,Chalazion,outcome
-783,792,4108467,Burn of skin,outcome
-783,792,374366,Sensorineural hearing loss,outcome
-783,792,439840,Lymphangitis,outcome
-783,792,138463,Aphthous ulcer of mouth,outcome
-783,792,81878,Benign paroxysmal positional vertigo,outcome
-783,792,377910,Deviated nasal septum,outcome
-783,792,134453,Bursitis,outcome
-783,792,201792,Nongonococcal urethritis,outcome
-783,792,194997,Prostatitis,outcome
-783,792,373478,Presbyopia,outcome
-783,792,4142905,Fracture of rib,outcome
-783,792,444367,Cholelithiasis without obstruction,outcome
-783,792,194696,Dysmenorrhea,outcome
-783,792,4049417,Vesicular eczema,outcome
-783,792,380094,Carpal tunnel syndrome,outcome
-783,792,140168,Psoriasis,outcome
-783,792,72418,Scoliosis deformity of spine,outcome
-783,792,72576,Benign tumor of breast,outcome
-783,792,4131595,Fracture of radius,outcome
-783,792,199074,Acute pancreatitis,outcome
-783,792,381444,Contusion of eye,outcome
-783,792,4153877,Post-traumatic wound infection,outcome
-783,792,73300,Radial styloid tenosynovitis,outcome
-783,792,433527,Endometriosis (clinical),outcome
-783,792,4028970,Tracheobronchitis,outcome
-783,792,141933,Alopecia areata,outcome
-783,792,74855,Genital herpes simplex,outcome
-783,792,40443308,Polycystic ovary syndrome,outcome
-783,792,261880,Atelectasis,outcome
-783,792,433440,Dysthymia,outcome
-783,792,4218106,Alcoholism,outcome
-783,792,198075,Condyloma acuminatum of the anogenital region,outcome
-783,792,261326,Viral pneumonia,outcome
-783,792,140362,Hypoparathyroidism,outcome
-783,792,437082,Ankylosing spondylitis,outcome
-783,792,4288544,Inguinal hernia,outcome
-783,792,4304008,Memory impairment,outcome
-783,792,440814,Torticollis,outcome
-783,792,253796,Pneumothorax,outcome
-783,792,433450,Paranoid schizophrenia,outcome
-783,792,4239381,Psychoactive substance abuse,outcome
-783,792,4223947,"Viral hepatitis, type A",outcome
-783,792,435093,Closed fracture of femur,outcome
-783,792,4207307,Infective meningitis,outcome
-783,792,432590,Delusional disorder,outcome
-783,792,30441,Sialolithiasis,outcome
-783,792,134765,Cachexia,outcome
-783,792,81336,Rectal prolapse,outcome
-783,792,4114197,Tumor of hypothalamus,outcome
-783,792,436676,Posttraumatic stress disorder,outcome
-783,792,4092565,Uterine prolapse,outcome
-783,792,198202,Cystocele,outcome
-783,792,195212,Hypercortisolism,outcome
-783,792,316457,Mallory-Weiss syndrome,outcome
-783,792,192606,Paraplegia,outcome
-783,792,374655,Mastoiditis,outcome
-783,792,436675,Anorexia nervosa,outcome
-783,792,4001458,Fatigue fracture of vertebra,outcome
-783,792,380395,Retinal dystrophy,outcome
-783,792,197036,Vesicoureteric reflux,outcome
-783,792,4299544,Acanthosis nigricans,outcome
-783,792,376132,Ectropion,outcome
-783,792,80509,Bone cyst,outcome
-783,792,438407,Bulimia nervosa,outcome
-783,792,4339088,Testicular mass,outcome
-816,817,318800,Gastroesophageal reflux disease,outcome
-816,817,133228,Dental caries,outcome
-816,817,376707,Acute conjunctivitis,outcome
-816,817,75576,Irritable bowel syndrome,outcome
-816,817,435613,Cellulitis,outcome
-816,817,378424,Astigmatism,outcome
-816,817,139902,Allergic urticaria,outcome
-816,817,380731,Otitis externa,outcome
-816,817,141323,Acute maxillary sinusitis,outcome
-816,817,4079750,Osteoarthritis of knee,outcome
-816,817,4150372,Acute otitis media,outcome
-816,817,440129,Hypertrophy of nasal turbinates,outcome
-816,817,4215978,Onychomycosis,outcome
-816,817,4164337,Polyp of large intestine,outcome
-816,817,381581,Chalazion,outcome
-816,817,4108467,Burn of skin,outcome
-816,817,374366,Sensorineural hearing loss,outcome
-816,817,439840,Lymphangitis,outcome
-816,817,138463,Aphthous ulcer of mouth,outcome
-816,817,81878,Benign paroxysmal positional vertigo,outcome
-816,817,377910,Deviated nasal septum,outcome
-816,817,134453,Bursitis,outcome
-816,817,201792,Nongonococcal urethritis,outcome
-816,817,194997,Prostatitis,outcome
-816,817,373478,Presbyopia,outcome
-816,817,4142905,Fracture of rib,outcome
-816,817,444367,Cholelithiasis without obstruction,outcome
-816,817,194696,Dysmenorrhea,outcome
-816,817,4049417,Vesicular eczema,outcome
-816,817,380094,Carpal tunnel syndrome,outcome
-816,817,140168,Psoriasis,outcome
-816,817,72418,Scoliosis deformity of spine,outcome
-816,817,72576,Benign tumor of breast,outcome
-816,817,4131595,Fracture of radius,outcome
-816,817,199074,Acute pancreatitis,outcome
-816,817,381444,Contusion of eye,outcome
-816,817,4153877,Post-traumatic wound infection,outcome
-816,817,73300,Radial styloid tenosynovitis,outcome
-816,817,433527,Endometriosis (clinical),outcome
-816,817,4028970,Tracheobronchitis,outcome
-816,817,141933,Alopecia areata,outcome
-816,817,74855,Genital herpes simplex,outcome
-816,817,40443308,Polycystic ovary syndrome,outcome
-816,817,261880,Atelectasis,outcome
-816,817,433440,Dysthymia,outcome
-816,817,4218106,Alcoholism,outcome
-816,817,198075,Condyloma acuminatum of the anogenital region,outcome
-816,817,261326,Viral pneumonia,outcome
-816,817,140362,Hypoparathyroidism,outcome
-816,817,437082,Ankylosing spondylitis,outcome
-816,817,4288544,Inguinal hernia,outcome
-816,817,4304008,Memory impairment,outcome
-816,817,440814,Torticollis,outcome
-816,817,253796,Pneumothorax,outcome
-816,817,433450,Paranoid schizophrenia,outcome
-816,817,4239381,Psychoactive substance abuse,outcome
-816,817,4223947,"Viral hepatitis, type A",outcome
-816,817,435093,Closed fracture of femur,outcome
-816,817,4207307,Infective meningitis,outcome
-816,817,432590,Delusional disorder,outcome
-816,817,30441,Sialolithiasis,outcome
-816,817,134765,Cachexia,outcome
-816,817,81336,Rectal prolapse,outcome
-816,817,4114197,Tumor of hypothalamus,outcome
-816,817,436676,Posttraumatic stress disorder,outcome
-816,817,4092565,Uterine prolapse,outcome
-816,817,198202,Cystocele,outcome
-816,817,195212,Hypercortisolism,outcome
-816,817,316457,Mallory-Weiss syndrome,outcome
-816,817,192606,Paraplegia,outcome
-816,817,374655,Mastoiditis,outcome
-816,817,436675,Anorexia nervosa,outcome
-816,817,4001458,Fatigue fracture of vertebra,outcome
-816,817,380395,Retinal dystrophy,outcome
-816,817,197036,Vesicoureteric reflux,outcome
-816,817,4299544,Acanthosis nigricans,outcome
-816,817,376132,Ectropion,outcome
-816,817,80509,Bone cyst,outcome
-816,817,438407,Bulimia nervosa,outcome
-816,817,4339088,Testicular mass,outcome
+821,818,440814,Torticollis,outcome
+821,818,4028970,Tracheobronchitis,outcome
+821,818,4114197,Tumor of hypothalamus,outcome
+821,818,4092565,Uterine prolapse,outcome
+821,818,197036,Vesicoureteric reflux,outcome
+821,818,4049417,Vesicular eczema,outcome
+821,818,4223947,"Viral hepatitis, type A",outcome
+821,818,261326,Viral pneumonia,outcome
+870,782,4299544,Acanthosis nigricans,outcome
+870,782,376707,Acute conjunctivitis,outcome
+870,782,141323,Acute maxillary sinusitis,outcome
+870,782,4150372,Acute otitis media,outcome
+870,782,199074,Acute pancreatitis,outcome
+870,782,4218106,Alcoholism,outcome
+870,782,139902,Allergic urticaria,outcome
+870,782,141933,Alopecia areata,outcome
+870,782,437082,Ankylosing spondylitis,outcome
+870,782,436675,Anorexia nervosa,outcome
+870,782,138463,Aphthous ulcer of mouth,outcome
+870,782,378424,Astigmatism,outcome
+870,782,261880,Atelectasis,outcome
+870,782,81878,Benign paroxysmal positional vertigo,outcome
+870,782,72576,Benign tumor of breast,outcome
+870,782,80509,Bone cyst,outcome
+870,782,438407,Bulimia nervosa,outcome
+870,782,4108467,Burn of skin,outcome
+870,782,134453,Bursitis,outcome
+870,782,134765,Cachexia,outcome
+870,782,380094,Carpal tunnel syndrome,outcome
+870,782,435613,Cellulitis,outcome
+870,782,381581,Chalazion,outcome
+870,782,444367,Cholelithiasis without obstruction,outcome
+870,782,435093,Closed fracture of femur,outcome
+870,782,198075,Condyloma acuminatum of the anogenital region,outcome
+870,782,381444,Contusion of eye,outcome
+870,782,198202,Cystocele,outcome
+870,782,432590,Delusional disorder,outcome
+870,782,133228,Dental caries,outcome
+870,782,377910,Deviated nasal septum,outcome
+870,782,194696,Dysmenorrhea,outcome
+870,782,433440,Dysthymia,outcome
+870,782,376132,Ectropion,outcome
+870,782,433527,Endometriosis (clinical),outcome
+870,782,4001458,Fatigue fracture of vertebra,outcome
+870,782,4131595,Fracture of radius,outcome
+870,782,4142905,Fracture of rib,outcome
+870,782,318800,Gastroesophageal reflux disease,outcome
+870,782,74855,Genital herpes simplex,outcome
+870,782,195212,Hypercortisolism,outcome
+870,782,440129,Hypertrophy of nasal turbinates,outcome
+870,782,140362,Hypoparathyroidism,outcome
+870,782,4207307,Infective meningitis,outcome
+870,782,4288544,Inguinal hernia,outcome
+870,782,75576,Irritable bowel syndrome,outcome
+870,782,439840,Lymphangitis,outcome
+870,782,316457,Mallory-Weiss syndrome,outcome
+870,782,374655,Mastoiditis,outcome
+870,782,4304008,Memory impairment,outcome
+870,782,201792,Nongonococcal urethritis,outcome
+870,782,4215978,Onychomycosis,outcome
+870,782,4079750,Osteoarthritis of knee,outcome
+870,782,380731,Otitis externa,outcome
+870,782,433450,Paranoid schizophrenia,outcome
+870,782,192606,Paraplegia,outcome
+870,782,253796,Pneumothorax,outcome
+870,782,40443308,Polycystic ovary syndrome,outcome
+870,782,4164337,Polyp of large intestine,outcome
+870,782,436676,Posttraumatic stress disorder,outcome
+870,782,4153877,Post-traumatic wound infection,outcome
+870,782,373478,Presbyopia,outcome
+870,782,194997,Prostatitis,outcome
+870,782,140168,Psoriasis,outcome
+870,782,4239381,Psychoactive substance abuse,outcome
+870,782,73300,Radial styloid tenosynovitis,outcome
+870,782,81336,Rectal prolapse,outcome
+870,782,380395,Retinal dystrophy,outcome
+870,782,72418,Scoliosis deformity of spine,outcome
+870,782,374366,Sensorineural hearing loss,outcome
+870,782,30441,Sialolithiasis,outcome
+870,782,4339088,Testicular mass,outcome
+870,782,440814,Torticollis,outcome
+870,782,4028970,Tracheobronchitis,outcome
+870,782,4114197,Tumor of hypothalamus,outcome
+870,782,4092565,Uterine prolapse,outcome
+870,782,197036,Vesicoureteric reflux,outcome
+870,782,4049417,Vesicular eczema,outcome
+870,782,4223947,"Viral hepatitis, type A",outcome
+870,782,261326,Viral pneumonia,outcome
+871,818,4299544,Acanthosis nigricans,outcome
+871,818,376707,Acute conjunctivitis,outcome
+871,818,141323,Acute maxillary sinusitis,outcome
+871,818,4150372,Acute otitis media,outcome
+871,818,199074,Acute pancreatitis,outcome
+871,818,4218106,Alcoholism,outcome
+871,818,139902,Allergic urticaria,outcome
+871,818,141933,Alopecia areata,outcome
+871,818,437082,Ankylosing spondylitis,outcome
+871,818,436675,Anorexia nervosa,outcome
+871,818,138463,Aphthous ulcer of mouth,outcome
+871,818,378424,Astigmatism,outcome
+871,818,261880,Atelectasis,outcome
+871,818,81878,Benign paroxysmal positional vertigo,outcome
+871,818,72576,Benign tumor of breast,outcome
+871,818,80509,Bone cyst,outcome
+871,818,438407,Bulimia nervosa,outcome
+871,818,4108467,Burn of skin,outcome
+871,818,134453,Bursitis,outcome
+871,818,134765,Cachexia,outcome
+871,818,380094,Carpal tunnel syndrome,outcome
+871,818,435613,Cellulitis,outcome
+871,818,381581,Chalazion,outcome
+871,818,444367,Cholelithiasis without obstruction,outcome
+871,818,435093,Closed fracture of femur,outcome
+871,818,198075,Condyloma acuminatum of the anogenital region,outcome
+871,818,381444,Contusion of eye,outcome
+871,818,198202,Cystocele,outcome
+871,818,432590,Delusional disorder,outcome
+871,818,133228,Dental caries,outcome
+871,818,377910,Deviated nasal septum,outcome
+871,818,194696,Dysmenorrhea,outcome
+871,818,433440,Dysthymia,outcome
+871,818,376132,Ectropion,outcome
+871,818,433527,Endometriosis (clinical),outcome
+871,818,4001458,Fatigue fracture of vertebra,outcome
+871,818,4131595,Fracture of radius,outcome
+871,818,4142905,Fracture of rib,outcome
+871,818,318800,Gastroesophageal reflux disease,outcome
+871,818,74855,Genital herpes simplex,outcome
+871,818,195212,Hypercortisolism,outcome
+871,818,440129,Hypertrophy of nasal turbinates,outcome
+871,818,140362,Hypoparathyroidism,outcome
+871,818,4207307,Infective meningitis,outcome
+871,818,4288544,Inguinal hernia,outcome
+871,818,75576,Irritable bowel syndrome,outcome
+871,818,439840,Lymphangitis,outcome
+871,818,316457,Mallory-Weiss syndrome,outcome
+871,818,374655,Mastoiditis,outcome
+871,818,4304008,Memory impairment,outcome
+871,818,201792,Nongonococcal urethritis,outcome
+871,818,4215978,Onychomycosis,outcome
+871,818,4079750,Osteoarthritis of knee,outcome
+871,818,380731,Otitis externa,outcome
+871,818,433450,Paranoid schizophrenia,outcome
+871,818,192606,Paraplegia,outcome
+871,818,253796,Pneumothorax,outcome
+871,818,40443308,Polycystic ovary syndrome,outcome
+871,818,4164337,Polyp of large intestine,outcome
+871,818,436676,Posttraumatic stress disorder,outcome
+871,818,4153877,Post-traumatic wound infection,outcome
+871,818,373478,Presbyopia,outcome
+871,818,194997,Prostatitis,outcome
+871,818,140168,Psoriasis,outcome
+871,818,4239381,Psychoactive substance abuse,outcome
+871,818,73300,Radial styloid tenosynovitis,outcome
+871,818,81336,Rectal prolapse,outcome
+871,818,380395,Retinal dystrophy,outcome
+871,818,72418,Scoliosis deformity of spine,outcome
+871,818,374366,Sensorineural hearing loss,outcome
+871,818,30441,Sialolithiasis,outcome
+871,818,4339088,Testicular mass,outcome
+871,818,440814,Torticollis,outcome
+871,818,4028970,Tracheobronchitis,outcome
+871,818,4114197,Tumor of hypothalamus,outcome
+871,818,4092565,Uterine prolapse,outcome
+871,818,197036,Vesicoureteric reflux,outcome
+871,818,4049417,Vesicular eczema,outcome
+871,818,4223947,"Viral hepatitis, type A",outcome
+871,818,261326,Viral pneumonia,outcome
+874,875,4299544,Acanthosis nigricans,outcome
+874,875,376707,Acute conjunctivitis,outcome
+874,875,141323,Acute maxillary sinusitis,outcome
+874,875,4150372,Acute otitis media,outcome
+874,875,199074,Acute pancreatitis,outcome
+874,875,4218106,Alcoholism,outcome
+874,875,139902,Allergic urticaria,outcome
+874,875,141933,Alopecia areata,outcome
+874,875,437082,Ankylosing spondylitis,outcome
+874,875,436675,Anorexia nervosa,outcome
+874,875,138463,Aphthous ulcer of mouth,outcome
+874,875,378424,Astigmatism,outcome
+874,875,261880,Atelectasis,outcome
+874,875,81878,Benign paroxysmal positional vertigo,outcome
+874,875,72576,Benign tumor of breast,outcome
+874,875,80509,Bone cyst,outcome
+874,875,438407,Bulimia nervosa,outcome
+874,875,4108467,Burn of skin,outcome
+874,875,134453,Bursitis,outcome
+874,875,134765,Cachexia,outcome
+874,875,380094,Carpal tunnel syndrome,outcome
+874,875,435613,Cellulitis,outcome
+874,875,381581,Chalazion,outcome
+874,875,444367,Cholelithiasis without obstruction,outcome
+874,875,435093,Closed fracture of femur,outcome
+874,875,198075,Condyloma acuminatum of the anogenital region,outcome
+874,875,381444,Contusion of eye,outcome
+874,875,198202,Cystocele,outcome
+874,875,432590,Delusional disorder,outcome
+874,875,133228,Dental caries,outcome
+874,875,377910,Deviated nasal septum,outcome
+874,875,194696,Dysmenorrhea,outcome
+874,875,433440,Dysthymia,outcome
+874,875,376132,Ectropion,outcome
+874,875,433527,Endometriosis (clinical),outcome
+874,875,4001458,Fatigue fracture of vertebra,outcome
+874,875,4131595,Fracture of radius,outcome
+874,875,4142905,Fracture of rib,outcome
+874,875,318800,Gastroesophageal reflux disease,outcome
+874,875,74855,Genital herpes simplex,outcome
+874,875,195212,Hypercortisolism,outcome
+874,875,440129,Hypertrophy of nasal turbinates,outcome
+874,875,140362,Hypoparathyroidism,outcome
+874,875,4207307,Infective meningitis,outcome
+874,875,4288544,Inguinal hernia,outcome
+874,875,75576,Irritable bowel syndrome,outcome
+874,875,439840,Lymphangitis,outcome
+874,875,316457,Mallory-Weiss syndrome,outcome
+874,875,374655,Mastoiditis,outcome
+874,875,4304008,Memory impairment,outcome
+874,875,201792,Nongonococcal urethritis,outcome
+874,875,4215978,Onychomycosis,outcome
+874,875,4079750,Osteoarthritis of knee,outcome
+874,875,380731,Otitis externa,outcome
+874,875,433450,Paranoid schizophrenia,outcome
+874,875,192606,Paraplegia,outcome
+874,875,253796,Pneumothorax,outcome
+874,875,40443308,Polycystic ovary syndrome,outcome
+874,875,4164337,Polyp of large intestine,outcome
+874,875,436676,Posttraumatic stress disorder,outcome
+874,875,4153877,Post-traumatic wound infection,outcome
+874,875,373478,Presbyopia,outcome
+874,875,194997,Prostatitis,outcome
+874,875,140168,Psoriasis,outcome
+874,875,4239381,Psychoactive substance abuse,outcome
+874,875,73300,Radial styloid tenosynovitis,outcome
+874,875,81336,Rectal prolapse,outcome
+874,875,380395,Retinal dystrophy,outcome
+874,875,72418,Scoliosis deformity of spine,outcome
+874,875,374366,Sensorineural hearing loss,outcome
+874,875,30441,Sialolithiasis,outcome
+874,875,4339088,Testicular mass,outcome
+874,875,440814,Torticollis,outcome
+874,875,4028970,Tracheobronchitis,outcome
+874,875,4114197,Tumor of hypothalamus,outcome
+874,875,4092565,Uterine prolapse,outcome
+874,875,197036,Vesicoureteric reflux,outcome
+874,875,4049417,Vesicular eczema,outcome
+874,875,4223947,"Viral hepatitis, type A",outcome
+874,875,261326,Viral pneumonia,outcome
+876,877,4299544,Acanthosis nigricans,outcome
+876,877,376707,Acute conjunctivitis,outcome
+876,877,141323,Acute maxillary sinusitis,outcome
+876,877,4150372,Acute otitis media,outcome
+876,877,199074,Acute pancreatitis,outcome
+876,877,4218106,Alcoholism,outcome
+876,877,139902,Allergic urticaria,outcome
+876,877,141933,Alopecia areata,outcome
+876,877,437082,Ankylosing spondylitis,outcome
+876,877,436675,Anorexia nervosa,outcome
+876,877,138463,Aphthous ulcer of mouth,outcome
+876,877,378424,Astigmatism,outcome
+876,877,261880,Atelectasis,outcome
+876,877,81878,Benign paroxysmal positional vertigo,outcome
+876,877,72576,Benign tumor of breast,outcome
+876,877,80509,Bone cyst,outcome
+876,877,438407,Bulimia nervosa,outcome
+876,877,4108467,Burn of skin,outcome
+876,877,134453,Bursitis,outcome
+876,877,134765,Cachexia,outcome
+876,877,380094,Carpal tunnel syndrome,outcome
+876,877,435613,Cellulitis,outcome
+876,877,381581,Chalazion,outcome
+876,877,444367,Cholelithiasis without obstruction,outcome
+876,877,435093,Closed fracture of femur,outcome
+876,877,198075,Condyloma acuminatum of the anogenital region,outcome
+876,877,381444,Contusion of eye,outcome
+876,877,198202,Cystocele,outcome
+876,877,432590,Delusional disorder,outcome
+876,877,133228,Dental caries,outcome
+876,877,377910,Deviated nasal septum,outcome
+876,877,194696,Dysmenorrhea,outcome
+876,877,433440,Dysthymia,outcome
+876,877,376132,Ectropion,outcome
+876,877,433527,Endometriosis (clinical),outcome
+876,877,4001458,Fatigue fracture of vertebra,outcome
+876,877,4131595,Fracture of radius,outcome
+876,877,4142905,Fracture of rib,outcome
+876,877,318800,Gastroesophageal reflux disease,outcome
+876,877,74855,Genital herpes simplex,outcome
+876,877,195212,Hypercortisolism,outcome
+876,877,440129,Hypertrophy of nasal turbinates,outcome
+876,877,140362,Hypoparathyroidism,outcome
+876,877,4207307,Infective meningitis,outcome
+876,877,4288544,Inguinal hernia,outcome
+876,877,75576,Irritable bowel syndrome,outcome
+876,877,439840,Lymphangitis,outcome
+876,877,316457,Mallory-Weiss syndrome,outcome
+876,877,374655,Mastoiditis,outcome
+876,877,4304008,Memory impairment,outcome
+876,877,201792,Nongonococcal urethritis,outcome
+876,877,4215978,Onychomycosis,outcome
+876,877,4079750,Osteoarthritis of knee,outcome
+876,877,380731,Otitis externa,outcome
+876,877,433450,Paranoid schizophrenia,outcome
+876,877,192606,Paraplegia,outcome
+876,877,253796,Pneumothorax,outcome
+876,877,40443308,Polycystic ovary syndrome,outcome
+876,877,4164337,Polyp of large intestine,outcome
+876,877,436676,Posttraumatic stress disorder,outcome
+876,877,4153877,Post-traumatic wound infection,outcome
+876,877,373478,Presbyopia,outcome
+876,877,194997,Prostatitis,outcome
+876,877,140168,Psoriasis,outcome
+876,877,4239381,Psychoactive substance abuse,outcome
+876,877,73300,Radial styloid tenosynovitis,outcome
+876,877,81336,Rectal prolapse,outcome
+876,877,380395,Retinal dystrophy,outcome
+876,877,72418,Scoliosis deformity of spine,outcome
+876,877,374366,Sensorineural hearing loss,outcome
+876,877,30441,Sialolithiasis,outcome
+876,877,4339088,Testicular mass,outcome
+876,877,440814,Torticollis,outcome
+876,877,4028970,Tracheobronchitis,outcome
+876,877,4114197,Tumor of hypothalamus,outcome
+876,877,4092565,Uterine prolapse,outcome
+876,877,197036,Vesicoureteric reflux,outcome
+876,877,4049417,Vesicular eczema,outcome
+876,877,4223947,"Viral hepatitis, type A",outcome
+876,877,261326,Viral pneumonia,outcome
+878,875,4299544,Acanthosis nigricans,outcome
+878,875,376707,Acute conjunctivitis,outcome
+878,875,141323,Acute maxillary sinusitis,outcome
+878,875,4150372,Acute otitis media,outcome
+878,875,199074,Acute pancreatitis,outcome
+878,875,4218106,Alcoholism,outcome
+878,875,139902,Allergic urticaria,outcome
+878,875,141933,Alopecia areata,outcome
+878,875,437082,Ankylosing spondylitis,outcome
+878,875,436675,Anorexia nervosa,outcome
+878,875,138463,Aphthous ulcer of mouth,outcome
+878,875,378424,Astigmatism,outcome
+878,875,261880,Atelectasis,outcome
+878,875,81878,Benign paroxysmal positional vertigo,outcome
+878,875,72576,Benign tumor of breast,outcome
+878,875,80509,Bone cyst,outcome
+878,875,438407,Bulimia nervosa,outcome
+878,875,4108467,Burn of skin,outcome
+878,875,134453,Bursitis,outcome
+878,875,134765,Cachexia,outcome
+878,875,380094,Carpal tunnel syndrome,outcome
+878,875,435613,Cellulitis,outcome
+878,875,381581,Chalazion,outcome
+878,875,444367,Cholelithiasis without obstruction,outcome
+878,875,435093,Closed fracture of femur,outcome
+878,875,198075,Condyloma acuminatum of the anogenital region,outcome
+878,875,381444,Contusion of eye,outcome
+878,875,198202,Cystocele,outcome
+878,875,432590,Delusional disorder,outcome
+878,875,133228,Dental caries,outcome
+878,875,377910,Deviated nasal septum,outcome
+878,875,194696,Dysmenorrhea,outcome
+878,875,433440,Dysthymia,outcome
+878,875,376132,Ectropion,outcome
+878,875,433527,Endometriosis (clinical),outcome
+878,875,4001458,Fatigue fracture of vertebra,outcome
+878,875,4131595,Fracture of radius,outcome
+878,875,4142905,Fracture of rib,outcome
+878,875,318800,Gastroesophageal reflux disease,outcome
+878,875,74855,Genital herpes simplex,outcome
+878,875,195212,Hypercortisolism,outcome
+878,875,440129,Hypertrophy of nasal turbinates,outcome
+878,875,140362,Hypoparathyroidism,outcome
+878,875,4207307,Infective meningitis,outcome
+878,875,4288544,Inguinal hernia,outcome
+878,875,75576,Irritable bowel syndrome,outcome
+878,875,439840,Lymphangitis,outcome
+878,875,316457,Mallory-Weiss syndrome,outcome
+878,875,374655,Mastoiditis,outcome
+878,875,4304008,Memory impairment,outcome
+878,875,201792,Nongonococcal urethritis,outcome
+878,875,4215978,Onychomycosis,outcome
+878,875,4079750,Osteoarthritis of knee,outcome
+878,875,380731,Otitis externa,outcome
+878,875,433450,Paranoid schizophrenia,outcome
+878,875,192606,Paraplegia,outcome
+878,875,253796,Pneumothorax,outcome
+878,875,40443308,Polycystic ovary syndrome,outcome
+878,875,4164337,Polyp of large intestine,outcome
+878,875,436676,Posttraumatic stress disorder,outcome
+878,875,4153877,Post-traumatic wound infection,outcome
+878,875,373478,Presbyopia,outcome
+878,875,194997,Prostatitis,outcome
+878,875,140168,Psoriasis,outcome
+878,875,4239381,Psychoactive substance abuse,outcome
+878,875,73300,Radial styloid tenosynovitis,outcome
+878,875,81336,Rectal prolapse,outcome
+878,875,380395,Retinal dystrophy,outcome
+878,875,72418,Scoliosis deformity of spine,outcome
+878,875,374366,Sensorineural hearing loss,outcome
+878,875,30441,Sialolithiasis,outcome
+878,875,4339088,Testicular mass,outcome
+878,875,440814,Torticollis,outcome
+878,875,4028970,Tracheobronchitis,outcome
+878,875,4114197,Tumor of hypothalamus,outcome
+878,875,4092565,Uterine prolapse,outcome
+878,875,197036,Vesicoureteric reflux,outcome
+878,875,4049417,Vesicular eczema,outcome
+878,875,4223947,"Viral hepatitis, type A",outcome
+878,875,261326,Viral pneumonia,outcome
+879,877,4299544,Acanthosis nigricans,outcome
+879,877,376707,Acute conjunctivitis,outcome
+879,877,141323,Acute maxillary sinusitis,outcome
+879,877,4150372,Acute otitis media,outcome
+879,877,199074,Acute pancreatitis,outcome
+879,877,4218106,Alcoholism,outcome
+879,877,139902,Allergic urticaria,outcome
+879,877,141933,Alopecia areata,outcome
+879,877,437082,Ankylosing spondylitis,outcome
+879,877,436675,Anorexia nervosa,outcome
+879,877,138463,Aphthous ulcer of mouth,outcome
+879,877,378424,Astigmatism,outcome
+879,877,261880,Atelectasis,outcome
+879,877,81878,Benign paroxysmal positional vertigo,outcome
+879,877,72576,Benign tumor of breast,outcome
+879,877,80509,Bone cyst,outcome
+879,877,438407,Bulimia nervosa,outcome
+879,877,4108467,Burn of skin,outcome
+879,877,134453,Bursitis,outcome
+879,877,134765,Cachexia,outcome
+879,877,380094,Carpal tunnel syndrome,outcome
+879,877,435613,Cellulitis,outcome
+879,877,381581,Chalazion,outcome
+879,877,444367,Cholelithiasis without obstruction,outcome
+879,877,435093,Closed fracture of femur,outcome
+879,877,198075,Condyloma acuminatum of the anogenital region,outcome
+879,877,381444,Contusion of eye,outcome
+879,877,198202,Cystocele,outcome
+879,877,432590,Delusional disorder,outcome
+879,877,133228,Dental caries,outcome
+879,877,377910,Deviated nasal septum,outcome
+879,877,194696,Dysmenorrhea,outcome
+879,877,433440,Dysthymia,outcome
+879,877,376132,Ectropion,outcome
+879,877,433527,Endometriosis (clinical),outcome
+879,877,4001458,Fatigue fracture of vertebra,outcome
+879,877,4131595,Fracture of radius,outcome
+879,877,4142905,Fracture of rib,outcome
+879,877,318800,Gastroesophageal reflux disease,outcome
+879,877,74855,Genital herpes simplex,outcome
+879,877,195212,Hypercortisolism,outcome
+879,877,440129,Hypertrophy of nasal turbinates,outcome
+879,877,140362,Hypoparathyroidism,outcome
+879,877,4207307,Infective meningitis,outcome
+879,877,4288544,Inguinal hernia,outcome
+879,877,75576,Irritable bowel syndrome,outcome
+879,877,439840,Lymphangitis,outcome
+879,877,316457,Mallory-Weiss syndrome,outcome
+879,877,374655,Mastoiditis,outcome
+879,877,4304008,Memory impairment,outcome
+879,877,201792,Nongonococcal urethritis,outcome
+879,877,4215978,Onychomycosis,outcome
+879,877,4079750,Osteoarthritis of knee,outcome
+879,877,380731,Otitis externa,outcome
+879,877,433450,Paranoid schizophrenia,outcome
+879,877,192606,Paraplegia,outcome
+879,877,253796,Pneumothorax,outcome
+879,877,40443308,Polycystic ovary syndrome,outcome
+879,877,4164337,Polyp of large intestine,outcome
+879,877,436676,Posttraumatic stress disorder,outcome
+879,877,4153877,Post-traumatic wound infection,outcome
+879,877,373478,Presbyopia,outcome
+879,877,194997,Prostatitis,outcome
+879,877,140168,Psoriasis,outcome
+879,877,4239381,Psychoactive substance abuse,outcome
+879,877,73300,Radial styloid tenosynovitis,outcome
+879,877,81336,Rectal prolapse,outcome
+879,877,380395,Retinal dystrophy,outcome
+879,877,72418,Scoliosis deformity of spine,outcome
+879,877,374366,Sensorineural hearing loss,outcome
+879,877,30441,Sialolithiasis,outcome
+879,877,4339088,Testicular mass,outcome
+879,877,440814,Torticollis,outcome
+879,877,4028970,Tracheobronchitis,outcome
+879,877,4114197,Tumor of hypothalamus,outcome
+879,877,4092565,Uterine prolapse,outcome
+879,877,197036,Vesicoureteric reflux,outcome
+879,877,4049417,Vesicular eczema,outcome
+879,877,4223947,"Viral hepatitis, type A",outcome
+879,877,261326,Viral pneumonia,outcome

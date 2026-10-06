@@ -122,26 +122,9 @@
       "RemoteSha": "aee99c04c8d6869fb0bf4d46a3662ea94a768b8a",
       "RemoteRef": "v0.2.3"
     },
-    "FeatureExtraction": {
-      "Package": "FeatureExtraction",
-      "Version": "3.4.1",
-      "Source": "GitHub",
-      "RemoteType": "github",
-      "RemoteHost": "api.github.com",
-      "RemoteRepo": "FeatureExtraction",
-      "RemoteUsername": "ohdsi",
-      "RemoteSha": "5049d546621f63f3e09df34d92fa93b6bb005c92",
-      "RemoteRef": "HEAD"
-    },
     "Formula": {
       "Package": "Formula",
       "Version": "1.2-4",
-      "Source": "Repository",
-      "Repository": "CRAN"
-    },
-    "HCHprimary": {
-      "Package": "HCHprimary",
-      "Version": "0.0.1",
       "Source": "Repository",
       "Repository": "CRAN"
     },
@@ -154,12 +137,6 @@
     "Hmisc": {
       "Package": "Hmisc",
       "Version": "4.6-0",
-      "Source": "Repository",
-      "Repository": "CRAN"
-    },
-    "InsulinTest": {
-      "Package": "InsulinTest",
-      "Version": "0.0.1",
       "Source": "Repository",
       "Repository": "CRAN"
     },
@@ -185,17 +162,6 @@
       "RemoteUsername": "OHDSI",
       "RemoteSha": "0dbfe6391ff5bccc2fef0e49342116a734bef6f1",
       "RemoteRef": "v2.2.0"
-    },
-    "OhdsiRTools": {
-      "Package": "OhdsiRTools",
-      "Version": "1.9.1",
-      "Source": "GitHub",
-      "RemoteType": "github",
-      "RemoteHost": "api.github.com",
-      "RemoteRepo": "OhdsiRTools",
-      "RemoteUsername": "OHDSI",
-      "RemoteSha": "592f1c94f0c0816121e2e17d34c6775bc742489c",
-      "RemoteRef": "v1.9.1"
     },
     "OhdsiSharing": {
       "Package": "OhdsiSharing",
@@ -224,17 +190,6 @@
       "RemoteUsername": "ohdsi",
       "RemoteSha": "f875565f778414df7c0e4fbcaf38f34a1c36fa28",
       "RemoteRef": "HEAD"
-    },
-    "PatientLevelPrediction": {
-      "Package": "PatientLevelPrediction",
-      "Version": "5.0.4",
-      "Source": "GitHub",
-      "RemoteType": "github",
-      "RemoteHost": "api.github.com",
-      "RemoteRepo": "PatientLevelPrediction",
-      "RemoteUsername": "OHDSI",
-      "RemoteSha": "a1ee7cc9b8a439af732c3e4e319c9c8b761609cf",
-      "RemoteRef": "v5.0.4"
     },
     "R.methodsS3": {
       "Package": "R.methodsS3",
@@ -347,12 +302,6 @@
     "assertthat": {
       "Package": "assertthat",
       "Version": "0.2.1",
-      "Source": "Repository",
-      "Repository": "CRAN"
-    },
-    "asthmabiologics": {
-      "Package": "asthmabiologics",
-      "Version": "0.0.1",
       "Source": "Repository",
       "Repository": "CRAN"
     },
@@ -707,6 +656,12 @@
     "gert": {
       "Package": "gert",
       "Version": "1.5.0",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "ggalluvial": {
+      "Package": "ggalluvial",
+      "Version": "0.12.6",
       "Source": "Repository",
       "Repository": "CRAN"
     },

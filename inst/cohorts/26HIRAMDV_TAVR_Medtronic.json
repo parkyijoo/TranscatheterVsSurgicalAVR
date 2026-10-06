@@ -16870,7 +16870,7 @@
     "PrimaryCriteriaLimit": {"Type": "First"},
     "ObservationWindow": {
       "PostDays": 0,
-      "PriorDays": 0
+      "PriorDays": 365
     }
   }
 }

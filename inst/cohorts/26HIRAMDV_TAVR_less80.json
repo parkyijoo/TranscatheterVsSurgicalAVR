@@ -16817,11 +16817,11 @@
       "OccurrenceEndDate": null,
       "DeviceTypeExclude": false,
       "CorrelatedCriteria": null,
-      "CodesetId": null,
+      "CodesetId": 1,
       "Quantity": null,
       "UniqueDeviceId": null,
       "ProviderSpecialty": null,
-      "DeviceSourceConcept": 1,
+      "DeviceSourceConcept": null,
       "Gender": null,
       "DeviceType": null,
       "VisitType": null,
@@ -16836,7 +16836,7 @@
     "PrimaryCriteriaLimit": {"Type": "First"},
     "ObservationWindow": {
       "PostDays": 0,
-      "PriorDays": 0
+      "PriorDays": 365
     }
   }
 }

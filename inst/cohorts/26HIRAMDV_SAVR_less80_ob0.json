@@ -10,25 +10,617 @@
   },
   "ConceptSets": [
     {
-      "expression": {"items": [{
-        "isExcluded": false,
-        "concept": {
-          "INVALID_REASON_CAPTION": "Valid",
-          "CONCEPT_ID": 3661561,
-          "STANDARD_CONCEPT": "S",
-          "CONCEPT_CODE": "860577005",
-          "VOCABULARY_ID": "SNOMED",
-          "CONCEPT_NAME": "Aortic valve bioprosthesis",
-          "DOMAIN_ID": "Device",
-          "STANDARD_CONCEPT_CAPTION": "Standard",
-          "CONCEPT_CLASS_ID": "Physical Object",
-          "INVALID_REASON": "V"
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44790415,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "233601000000100",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Aortic root replacement using pulmonary valve autograft with right ventricle to pulmonary artery valved conduit and aortoventriculoplasty",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
         },
-        "includeMapped": false,
-        "includeDescendants": false
-      }]},
-      "name": "[26HIRAMDV] TAVR (Medtronic)",
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4339825,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "232847003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Aortic valve replacement and aortoplasty",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4339826,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "232848008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Aortic valve replacement and patch aortoplasty",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4336608,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "232849000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Aortic valve replacement and plication of ascending aorta",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4339824,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "232846007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Aortic valve replacement and replacement of ascending aorta",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4324899,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "429620002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Construction of left ventricle to aorta tunnel with right ventricle to pulmonary artery valved conduit",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4286184,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "68800008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Creation of conduit of right ventricle and pulmonary artery in repair of transposition of great vessels",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4077745,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "18932005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Rastelli operation in repair of transposition of great vessels",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4323509,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "428501002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Replacement of aortic root using pulmonary valve autograft with right ventricle to pulmonary artery valved conduit",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        }
+      ]},
+      "name": "[26HIRAMDV] SAVR-complex surgery",
+      "id": 1
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44790415,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "233601000000100",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Aortic root replacement using pulmonary valve autograft with right ventricle to pulmonary artery valved conduit and aortoventriculoplasty",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4339825,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "232847003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Aortic valve replacement and aortoplasty",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4339826,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "232848008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Aortic valve replacement and patch aortoplasty",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4336608,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "232849000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Aortic valve replacement and plication of ascending aorta",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4339824,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "232846007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Aortic valve replacement and replacement of ascending aorta",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4336609,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "232850000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Aortoventriculoplasty",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4329246,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "429269009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Aortoventriculoplasty with pulmonary valve autograft",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4166457,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "275202005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Bileaflet aortic valve replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4324899,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "429620002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Construction of left ventricle to aorta tunnel with right ventricle to pulmonary artery valved conduit",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4259143,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "44777001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Creation of conduit between right ventricle and pulmonary artery",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4184741,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "54854003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Creation of conduit of right ventricle and pulmonary artery in repair of pulmonary artery atresia",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4286184,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "68800008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Creation of conduit of right ventricle and pulmonary artery in repair of transposition of great vessels",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4225412,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "85041007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Formation of conduit of right ventricle and pulmonary artery in repair of pulmonary artery atresia in truncus arteriosus",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4339827,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "232851001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Konno aortoventriculoplasty",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40480923,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "441873006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Percutaneous replacement of aortic valve using fluoroscopic guidance",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45771338,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "703518004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Rastelli creation of conduit between right ventricle and pulmonary artery",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4077745,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "18932005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Rastelli operation in repair of transposition of great vessels",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45766375,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "703519007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Repair of double outlet right ventricle with anastomosis of left ventricle to aorta via ventricular septal defect and right ventricle to pulmonary trunk conduit",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4323509,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "428501002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Replacement of aortic root using pulmonary valve autograft with right ventricle to pulmonary artery valved conduit",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4339741,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "232842009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Replacement of implanted aortic valve",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        }
+      ]},
+      "name": "[26HIRAMDV] SAVR-reintervention",
       "id": 3
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Invalid",
+            "CONCEPT_ID": 35610629,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "1095181000000101",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Sutureless aortic valve replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "U"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37110861,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "725351001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Transcatheter aortic valve replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40480923,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "441873006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Percutaneous replacement of aortic valve using fluoroscopic guidance",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4018561,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "174929002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Mechanical prosthetic aortic valve replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4166455,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "275200002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Disc valve aortic valve replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4170281,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "275199000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Ball valve aortic valve replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        }
+      ]},
+      "name": "[26HIRAMDV] SAVR-sutureless,tavr,mechanical",
+      "id": 4
     },
     {
       "expression": {"items": [
@@ -1020,7 +1612,7 @@
         }
       ]},
       "name": "[26HIRAMDV] High risk patient",
-      "id": 4
+      "id": 6
     },
     {
       "expression": {"items": [
@@ -1230,7 +1822,28 @@
         }
       ]},
       "name": "[26HIRAMDV] Aortic Stenosis",
-      "id": 5
+      "id": 7
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4095407,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "26212005",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Replacement of aortic valve",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "[26HIRAMDV] SAVR",
+      "id": 8
     },
     {
       "expression": {"items": [
@@ -16604,7 +17217,28 @@
         }
       ]},
       "name": "[26HIRAMDV] Disorder of another valve",
-      "id": 6
+      "id": 9
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 3661561,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "860577005",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Aortic valve bioprosthesis",
+          "DOMAIN_ID": "Device",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Physical Object",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      }]},
+      "name": "[26HIRAMDV] TAVR (total)",
+      "id": 10
     },
     {
       "expression": {"items": [{
@@ -16624,8 +17258,8 @@
         "includeMapped": false,
         "includeDescendants": true
       }]},
-      "name": "[26HIRAMDV] AVR",
-      "id": 7
+      "name": "[26HIRAMDV] AVR\n",
+      "id": 11
     }
   ],
   "cdmVersionRange": ">=5.0.0",
@@ -16651,7 +17285,7 @@
         "OccurrenceEndDate": null,
         "CorrelatedCriteria": null,
         "ConditionTypeExclude": false,
-        "CodesetId": 5,
+        "CodesetId": 7,
         "ProviderSpecialty": null,
         "Gender": null,
         "VisitType": null,
@@ -16696,7 +17330,192 @@
         "Groups": [],
         "Count": null
       },
-      "name": "aged more than 65 less than 79",
+      "name": "aged more than 65 less than 80",
+      "description": null
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": null,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 0,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "EndWindow": null,
+          "Criteria": {"ProcedureOccurrence": {
+            "ProcedureType": null,
+            "CorrelatedCriteria": null,
+            "CodesetId": 1,
+            "ProcedureSourceConcept": null,
+            "Quantity": null,
+            "ProviderSpecialty": null,
+            "Gender": null,
+            "ProcedureTypeExclude": false,
+            "VisitType": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "Modifier": null,
+            "Age": null
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "CountColumn": null,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "has no prior complex SAVR (all-0)",
+      "description": null
+    },
+    {
+      "expression": {
+        "CriteriaList": [
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": null,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 0,
+                "Coeff": -1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": true,
+            "EndWindow": null,
+            "Criteria": {"ProcedureOccurrence": {
+              "ProcedureType": null,
+              "CorrelatedCriteria": null,
+              "CodesetId": 4,
+              "ProcedureSourceConcept": null,
+              "Quantity": null,
+              "ProviderSpecialty": null,
+              "Gender": null,
+              "ProcedureTypeExclude": false,
+              "VisitType": null,
+              "First": null,
+              "OccurrenceStartDate": null,
+              "Modifier": null,
+              "Age": null
+            }},
+            "Occurrence": {
+              "Type": 0,
+              "CountColumn": null,
+              "IsDistinct": false,
+              "Count": 0
+            }
+          },
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": null,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 0,
+                "Coeff": -1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": true,
+            "EndWindow": null,
+            "Criteria": {"DeviceExposure": {
+              "OccurrenceEndDate": null,
+              "DeviceTypeExclude": false,
+              "CorrelatedCriteria": null,
+              "CodesetId": 10,
+              "Quantity": null,
+              "UniqueDeviceId": null,
+              "ProviderSpecialty": null,
+              "DeviceSourceConcept": null,
+              "Gender": null,
+              "DeviceType": null,
+              "VisitType": null,
+              "First": null,
+              "OccurrenceStartDate": null,
+              "Age": null
+            }},
+            "Occurrence": {
+              "Type": 0,
+              "CountColumn": null,
+              "IsDistinct": false,
+              "Count": 0
+            }
+          }
+        ],
+        "Type": "ANY",
+        "DemographicCriteriaList": [],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "has no prior sutureless,mechanical,TAVR (all-0)",
+      "description": null
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": null,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 7,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "EndWindow": null,
+          "Criteria": {"ProcedureOccurrence": {
+            "ProcedureType": null,
+            "CorrelatedCriteria": null,
+            "CodesetId": 3,
+            "ProcedureSourceConcept": null,
+            "Quantity": null,
+            "ProviderSpecialty": null,
+            "Gender": null,
+            "ProcedureTypeExclude": false,
+            "VisitType": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "Modifier": null,
+            "Age": null
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "CountColumn": null,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "has no prior reintervention (all-7)",
       "description": null
     },
     {
@@ -16721,7 +17540,7 @@
             "OccurrenceEndDate": null,
             "CorrelatedCriteria": null,
             "ConditionTypeExclude": false,
-            "CodesetId": 4,
+            "CodesetId": 6,
             "ProviderSpecialty": null,
             "Gender": null,
             "VisitType": null,
@@ -16770,7 +17589,7 @@
             "OccurrenceEndDate": null,
             "CorrelatedCriteria": null,
             "ConditionTypeExclude": false,
-            "CodesetId": 6,
+            "CodesetId": 9,
             "ProviderSpecialty": null,
             "Gender": null,
             "VisitType": null,
@@ -16818,7 +17637,7 @@
           "Criteria": {"ProcedureOccurrence": {
             "ProcedureType": null,
             "CorrelatedCriteria": null,
-            "CodesetId": 7,
+            "CodesetId": 11,
             "ProcedureSourceConcept": null,
             "Quantity": null,
             "ProviderSpecialty": null,
@@ -16847,17 +17666,15 @@
     }
   ],
   "PrimaryCriteria": {
-    "CriteriaList": [{"DeviceExposure": {
-      "OccurrenceEndDate": null,
-      "DeviceTypeExclude": false,
+    "CriteriaList": [{"ProcedureOccurrence": {
+      "ProcedureType": null,
       "CorrelatedCriteria": null,
-      "CodesetId": null,
+      "CodesetId": 8,
+      "ProcedureSourceConcept": null,
       "Quantity": null,
-      "UniqueDeviceId": null,
       "ProviderSpecialty": null,
-      "DeviceSourceConcept": 3,
       "Gender": null,
-      "DeviceType": null,
+      "ProcedureTypeExclude": false,
       "VisitType": null,
       "First": null,
       "OccurrenceStartDate": {
@@ -16865,12 +17682,13 @@
         "Extent": null,
         "Value": "2016-01-01"
       },
+      "Modifier": null,
       "Age": null
     }}],
     "PrimaryCriteriaLimit": {"Type": "First"},
     "ObservationWindow": {
       "PostDays": 0,
-      "PriorDays": 365
+      "PriorDays": 0
     }
   }
 }

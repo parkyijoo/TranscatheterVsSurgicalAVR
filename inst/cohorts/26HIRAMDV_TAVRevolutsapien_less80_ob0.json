@@ -27,8 +27,29 @@
         "includeMapped": false,
         "includeDescendants": false
       }]},
-      "name": "[26HIRAMDV] TAVR (Medtronic)",
-      "id": 3
+      "name": "[26HIRAMDV] TAVR(total)",
+      "id": 1
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4095407,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "26212005",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Replacement of aortic valve",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "[26HIRAMDV] AVR",
+      "id": 2
     },
     {
       "expression": {"items": [
@@ -1020,7 +1041,7 @@
         }
       ]},
       "name": "[26HIRAMDV] High risk patient",
-      "id": 4
+      "id": 3
     },
     {
       "expression": {"items": [
@@ -1193,44 +1214,10 @@
           },
           "includeMapped": false,
           "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4147787,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "268185002",
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Supravalvar aortic stenosis",
-            "DOMAIN_ID": "Condition",
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4111099,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "194987006",
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Aortic valve stenosis with insufficiency",
-            "DOMAIN_ID": "Condition",
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
         }
       ]},
       "name": "[26HIRAMDV] Aortic Stenosis",
-      "id": 5
+      "id": 4
     },
     {
       "expression": {"items": [
@@ -16604,28 +16591,7 @@
         }
       ]},
       "name": "[26HIRAMDV] Disorder of another valve",
-      "id": 6
-    },
-    {
-      "expression": {"items": [{
-        "isExcluded": false,
-        "concept": {
-          "INVALID_REASON_CAPTION": "Valid",
-          "CONCEPT_ID": 4095407,
-          "STANDARD_CONCEPT": "S",
-          "CONCEPT_CODE": "26212005",
-          "VOCABULARY_ID": "SNOMED",
-          "CONCEPT_NAME": "Replacement of aortic valve",
-          "DOMAIN_ID": "Procedure",
-          "STANDARD_CONCEPT_CAPTION": "Standard",
-          "CONCEPT_CLASS_ID": "Procedure",
-          "INVALID_REASON": "V"
-        },
-        "includeMapped": false,
-        "includeDescendants": true
-      }]},
-      "name": "[26HIRAMDV] AVR",
-      "id": 7
+      "id": 5
     }
   ],
   "cdmVersionRange": ">=5.0.0",
@@ -16651,7 +16617,7 @@
         "OccurrenceEndDate": null,
         "CorrelatedCriteria": null,
         "ConditionTypeExclude": false,
-        "CodesetId": 5,
+        "CodesetId": 4,
         "ProviderSpecialty": null,
         "Gender": null,
         "VisitType": null,
@@ -16696,7 +16662,7 @@
         "Groups": [],
         "Count": null
       },
-      "name": "aged more than 65 less than 79",
+      "name": "aged more than 65 less than 80",
       "description": null
     },
     {
@@ -16721,7 +16687,7 @@
             "OccurrenceEndDate": null,
             "CorrelatedCriteria": null,
             "ConditionTypeExclude": false,
-            "CodesetId": 4,
+            "CodesetId": 3,
             "ProviderSpecialty": null,
             "Gender": null,
             "VisitType": null,
@@ -16770,7 +16736,7 @@
             "OccurrenceEndDate": null,
             "CorrelatedCriteria": null,
             "ConditionTypeExclude": false,
-            "CodesetId": 6,
+            "CodesetId": 5,
             "ProviderSpecialty": null,
             "Gender": null,
             "VisitType": null,
@@ -16818,7 +16784,7 @@
           "Criteria": {"ProcedureOccurrence": {
             "ProcedureType": null,
             "CorrelatedCriteria": null,
-            "CodesetId": 7,
+            "CodesetId": 2,
             "ProcedureSourceConcept": null,
             "Quantity": null,
             "ProviderSpecialty": null,
@@ -16855,7 +16821,7 @@
       "Quantity": null,
       "UniqueDeviceId": null,
       "ProviderSpecialty": null,
-      "DeviceSourceConcept": 3,
+      "DeviceSourceConcept": 1,
       "Gender": null,
       "DeviceType": null,
       "VisitType": null,
@@ -16870,7 +16836,7 @@
     "PrimaryCriteriaLimit": {"Type": "First"},
     "ObservationWindow": {
       "PostDays": 0,
-      "PriorDays": 365
+      "PriorDays": 0
     }
   }
 }

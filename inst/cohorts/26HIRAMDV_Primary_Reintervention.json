@@ -31,94 +31,24 @@
       "id": 0
     },
     {
-      "expression": {"items": [
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 36676805,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "773996000",
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Transcatheter aortic valve implantation",
-            "DOMAIN_ID": "Procedure",
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Procedure",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4095407,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "26212005",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Replacement of aortic valve",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
         },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 40484106,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "443916000",
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Transluminal implantation of aortic valve",
-            "DOMAIN_ID": "Procedure",
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Procedure",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 37204194,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "782704000",
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Sutureless aortic valve replacement",
-            "DOMAIN_ID": "Procedure",
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Procedure",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4339741,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "232842009",
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Replacement of implanted aortic valve",
-            "DOMAIN_ID": "Procedure",
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Procedure",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4095407,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "26212005",
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Replacement of aortic valve",
-            "DOMAIN_ID": "Procedure",
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Procedure",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        }
-      ]},
-      "name": "[26HIRAMDV] SAVR",
+        "includeMapped": false,
+        "includeDescendants": false
+      }]},
+      "name": "[26HIRAMDV] Redo-AVR",
       "id": 1
     },
     {
@@ -138,7 +68,7 @@
             "INVALID_REASON": "V"
           },
           "includeMapped": false,
-          "includeDescendants": false
+          "includeDescendants": true
         },
         {
           "isExcluded": false,
@@ -155,7 +85,7 @@
             "INVALID_REASON": "V"
           },
           "includeMapped": false,
-          "includeDescendants": false
+          "includeDescendants": true
         },
         {
           "isExcluded": false,
@@ -172,7 +102,7 @@
             "INVALID_REASON": "V"
           },
           "includeMapped": false,
-          "includeDescendants": false
+          "includeDescendants": true
         }
       ]},
       "name": "[26HIRAMDV] Valvuloplasty Aortic Valve",
@@ -195,7 +125,7 @@
             "INVALID_REASON": "V"
           },
           "includeMapped": false,
-          "includeDescendants": false
+          "includeDescendants": true
         },
         {
           "isExcluded": false,
@@ -212,7 +142,7 @@
             "INVALID_REASON": "V"
           },
           "includeMapped": false,
-          "includeDescendants": false
+          "includeDescendants": true
         },
         {
           "isExcluded": false,
@@ -229,147 +159,17 @@
             "INVALID_REASON": "V"
           },
           "includeMapped": false,
-          "includeDescendants": false
+          "includeDescendants": true
         }
       ]},
       "name": "[26HIRAMDV] TAVR (other approach, procedure)",
       "id": 4
-    },
-    {
-      "expression": {"items": [{
-        "isExcluded": false,
-        "concept": {
-          "INVALID_REASON_CAPTION": "Valid",
-          "CONCEPT_ID": 3661561,
-          "STANDARD_CONCEPT": "S",
-          "CONCEPT_CODE": "860577005",
-          "VOCABULARY_ID": "SNOMED",
-          "CONCEPT_NAME": "Aortic valve bioprosthesis",
-          "DOMAIN_ID": "Device",
-          "STANDARD_CONCEPT_CAPTION": "Standard",
-          "CONCEPT_CLASS_ID": "Physical Object",
-          "INVALID_REASON": "V"
-        },
-        "includeMapped": false,
-        "includeDescendants": true
-      }]},
-      "name": "[26HIRAMDV] TAVR (EDI)",
-      "id": 5
-    },
-    {
-      "expression": {"items": [{
-        "isExcluded": false,
-        "concept": {
-          "INVALID_REASON_CAPTION": "Valid",
-          "CONCEPT_ID": 42538119,
-          "STANDARD_CONCEPT": "S",
-          "CONCEPT_CODE": "739026008",
-          "VOCABULARY_ID": "SNOMED",
-          "CONCEPT_NAME": "Transplanted heart valve present",
-          "DOMAIN_ID": "Condition",
-          "STANDARD_CONCEPT_CAPTION": "Standard",
-          "CONCEPT_CLASS_ID": "Clinical Finding",
-          "INVALID_REASON": "V"
-        },
-        "includeMapped": false,
-        "includeDescendants": false
-      }]},
-      "name": "[26HIRAMDV] Presence of heart valve (observ)",
-      "id": 6
     }
   ],
   "cdmVersionRange": ">=5.0.0",
   "CensoringCriteria": [],
   "QualifiedLimit": {"Type": "First"},
-  "InclusionRules": [{
-    "expression": {
-      "CriteriaList": [
-        {
-          "RestrictVisit": false,
-          "StartWindow": {
-            "UseEventEnd": false,
-            "Start": {
-              "Days": null,
-              "Coeff": -1
-            },
-            "End": {
-              "Days": 365,
-              "Coeff": -1
-            },
-            "UseIndexEnd": false
-          },
-          "IgnoreObservationPeriod": true,
-          "EndWindow": null,
-          "Criteria": {"DeviceExposure": {
-            "OccurrenceEndDate": null,
-            "DeviceTypeExclude": false,
-            "CorrelatedCriteria": null,
-            "CodesetId": 0,
-            "Quantity": null,
-            "UniqueDeviceId": null,
-            "ProviderSpecialty": null,
-            "DeviceSourceConcept": null,
-            "Gender": null,
-            "DeviceType": null,
-            "VisitType": null,
-            "First": null,
-            "OccurrenceStartDate": null,
-            "Age": null
-          }},
-          "Occurrence": {
-            "Type": 2,
-            "CountColumn": null,
-            "IsDistinct": false,
-            "Count": 1
-          }
-        },
-        {
-          "RestrictVisit": false,
-          "StartWindow": {
-            "UseEventEnd": false,
-            "Start": {
-              "Days": null,
-              "Coeff": -1
-            },
-            "End": {
-              "Days": 365,
-              "Coeff": -1
-            },
-            "UseIndexEnd": false
-          },
-          "IgnoreObservationPeriod": true,
-          "EndWindow": null,
-          "Criteria": {"ProcedureOccurrence": {
-            "ProcedureType": null,
-            "CorrelatedCriteria": null,
-            "CodesetId": 1,
-            "ProcedureSourceConcept": null,
-            "Quantity": null,
-            "ProviderSpecialty": null,
-            "Gender": null,
-            "ProcedureTypeExclude": false,
-            "VisitType": null,
-            "First": null,
-            "OccurrenceStartDate": null,
-            "Modifier": null,
-            "Age": null
-          }},
-          "Occurrence": {
-            "Type": 2,
-            "CountColumn": null,
-            "IsDistinct": false,
-            "Count": 1
-          }
-        }
-      ],
-      "Type": "ANY",
-      "DemographicCriteriaList": [],
-      "Groups": [],
-      "Count": null
-    },
-    "name": "prior TAVR/SAVR",
-    "description": null
-  }],
+  "InclusionRules": [],
   "PrimaryCriteria": {
     "CriteriaList": [
       {"ProcedureOccurrence": {
@@ -389,7 +189,51 @@
       }},
       {"ProcedureOccurrence": {
         "ProcedureType": null,
-        "CorrelatedCriteria": null,
+        "CorrelatedCriteria": {
+          "CriteriaList": [{
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": null,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 365,
+                "Coeff": -1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": true,
+            "EndWindow": null,
+            "Criteria": {"DeviceExposure": {
+              "OccurrenceEndDate": null,
+              "DeviceTypeExclude": false,
+              "CorrelatedCriteria": null,
+              "CodesetId": 0,
+              "Quantity": null,
+              "UniqueDeviceId": null,
+              "ProviderSpecialty": null,
+              "DeviceSourceConcept": null,
+              "Gender": null,
+              "DeviceType": null,
+              "VisitType": null,
+              "First": null,
+              "OccurrenceStartDate": null,
+              "Age": null
+            }},
+            "Occurrence": {
+              "Type": 2,
+              "CountColumn": null,
+              "IsDistinct": false,
+              "Count": 1
+            }
+          }],
+          "Type": "ANY",
+          "DemographicCriteriaList": [],
+          "Groups": [],
+          "Count": null
+        },
         "CodesetId": 3,
         "ProcedureSourceConcept": null,
         "Quantity": null,
@@ -404,7 +248,51 @@
       }},
       {"ProcedureOccurrence": {
         "ProcedureType": null,
-        "CorrelatedCriteria": null,
+        "CorrelatedCriteria": {
+          "CriteriaList": [{
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": null,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 365,
+                "Coeff": -1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": true,
+            "EndWindow": null,
+            "Criteria": {"DeviceExposure": {
+              "OccurrenceEndDate": null,
+              "DeviceTypeExclude": false,
+              "CorrelatedCriteria": null,
+              "CodesetId": 0,
+              "Quantity": null,
+              "UniqueDeviceId": null,
+              "ProviderSpecialty": null,
+              "DeviceSourceConcept": null,
+              "Gender": null,
+              "DeviceType": null,
+              "VisitType": null,
+              "First": null,
+              "OccurrenceStartDate": null,
+              "Age": null
+            }},
+            "Occurrence": {
+              "Type": 2,
+              "CountColumn": null,
+              "IsDistinct": false,
+              "Count": 1
+            }
+          }],
+          "Type": "ANY",
+          "DemographicCriteriaList": [],
+          "Groups": [],
+          "Count": null
+        },
         "CodesetId": 4,
         "ProcedureSourceConcept": null,
         "Quantity": null,
@@ -420,7 +308,51 @@
       {"DeviceExposure": {
         "OccurrenceEndDate": null,
         "DeviceTypeExclude": false,
-        "CorrelatedCriteria": null,
+        "CorrelatedCriteria": {
+          "CriteriaList": [{
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": null,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 365,
+                "Coeff": -1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": true,
+            "EndWindow": null,
+            "Criteria": {"DeviceExposure": {
+              "OccurrenceEndDate": null,
+              "DeviceTypeExclude": false,
+              "CorrelatedCriteria": null,
+              "CodesetId": 0,
+              "Quantity": null,
+              "UniqueDeviceId": null,
+              "ProviderSpecialty": null,
+              "DeviceSourceConcept": null,
+              "Gender": null,
+              "DeviceType": null,
+              "VisitType": null,
+              "First": null,
+              "OccurrenceStartDate": null,
+              "Age": null
+            }},
+            "Occurrence": {
+              "Type": 2,
+              "CountColumn": null,
+              "IsDistinct": false,
+              "Count": 1
+            }
+          }],
+          "Type": "ANY",
+          "DemographicCriteriaList": [],
+          "Groups": [],
+          "Count": null
+        },
         "CodesetId": 0,
         "Quantity": null,
         "UniqueDeviceId": null,
