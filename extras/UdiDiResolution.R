@@ -28,9 +28,8 @@ outputFolder <- "s:/TavrSavr"
 udiFolder    <- file.path(outputFolder, "udiDi")
 
 # Cohorts. 874 is TAVR without a prior-observation requirement, the cohort the
-# thesis reports; 783 is the same protocol with 365 days of prior observation.
 tavrCohortId <- 874
-ppiCohortId  <- 862          # Secondary_New_PPI
+ppiCohortId  <- 797
 
 # The standard device concept every TAVR valve maps to.
 valveConceptId <- 3661561
